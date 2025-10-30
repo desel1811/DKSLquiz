@@ -55,7 +55,8 @@ window.quizTopics = {
         "answers": [
           "Sie darf die Milch zusammenschütten",
           "Sie darf die Milch erst zusammenschütten, wenn die neue abgekühlt ist",
-          "Die gewonne Milch sollte, bei Klinikbedarf, mit Datum und Uhrzeit versehen werden. Zuhause empfielt sich dies ebenfalle. Dabei gilt die Zeit der zuerst addierten Milch"
+          "Die gewonnene Milch sollte bei Klinikbedarfmit Datum und Uhrzeit versehen werden. Zuhause empfiehlt sich dies ebenfalls. Dabei gilt die Zeit der zuerst addierten Milch",
+          "mit Datum und Uhrzeit versehen werden. Zuhause empfiehlt sich dies ebenfalls. Dabei gilt die Zeit der zuerst addierten Milch"
         ],
         "correctAnswers": [
           0,
@@ -129,7 +130,7 @@ window.quizTopics = {
         "explanation": "Erklärung warum diese Antwort richtig ist"
       },
       {
-        "question": "11. Die Art der Fette können über die Ernährung der Mutter beeinflusst werden",
+        "question": "11. Die Art der Fette in der Muttermilch können über die Ernährung der Mutter beeinflusst werden",
         "answers": [
           "richtig",
           "falsch",
@@ -269,17 +270,6 @@ window.quizTopics = {
           3
         ],
         "explanation": "Erklärung warum diese Antwort richtig ist"
-      },
-      {
-        "question": "was tust du wenn du keine lust hast",
-        "answers": [
-          "nix",
-          "alles"
-        ],
-        "correctAnswers": [
-          0
-        ],
-        "explanation": ""
       }
     ]
   },
@@ -494,7 +484,7 @@ window.quizTopics = {
       {
         "question": "16. Eine Schwellung in der Achsel kann häufig bei einer initialen Brustdrüsenschwellung auftreten",
         "answers": [
-          "durch vermehrte Lyphflüßigkeit",
+          "durch vermehrte Lymphflüssigkeit",
           "durch versprengtes Drüsengewebe",
           "durch ineffektive Entleerung der Brust",
           "durch zu weniges anlegen"
