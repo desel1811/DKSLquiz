@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DKSL Interaktives Quiz - Alle 20 Wissensprüfungen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>DKSL Quiz</h1>
+            <p class="subtitle">Interaktive Wissensprüfungen für Stillberatung</p>
+            <div id="usageCounter"></div>
+        </header>
+
+        <!-- Themenauswahl -->
+        <div id="topicSelection" class="topic-selection">
+            <h2>Wählen Sie ein Thema:</h2>
+            <div class="topics-grid" id="topicsGrid">
+                <!-- Themen werden hier dynamisch eingefügt -->
+            </div>
+            <div class="action-buttons">
+                <button id="startAllTopics" class="btn btn-primary">Alle Themen gemischt</button>
+                <button id="startSelectedTopic" class="btn btn-secondary" disabled>Gewähltes Thema starten</button>
+            </div>
+        </div>
+
+        <!-- Quiz Container -->
+        <div id="quizContainer" class="quiz-container hidden">
+            <div class="quiz-header">
+                <div class="topic-info">
+                    <span id="currentTopic">Aktuelles Thema</span>
+                    <span id="questionCounter">Frage 1 von 10</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="score-display">
+                    <span id="scoreDisplay">Richtig: 0 | Falsch: 0</span>
+                </div>
+            </div>
+
+            <div class="question-card" id="questionCard">
+                <h3 id="questionText">Frage wird geladen...</h3>
+                <div class="answers-container" id="answersContainer">
+                    <!-- Antworten werden hier dynamisch eingefügt -->
+                </div>
+            </div>
+
+            <div class="quiz-controls">
+                <button id="backToTopics" class="btn btn-outline">Zurück zur Themenauswahl</button>
+                <button id="nextQuestion" class="btn btn-primary hidden">Nächste Frage</button>
+                    <button id="prevQuestion" class="btn btn-secondary hidden">Zurück zur letzten Frage</button>
+            </div>
+        </div>
+
+        <!-- Feedback Modal -->
+        <div id="feedbackModal" class="feedback-modal">
+            <div class="feedback-content">
+                <div class="feedback-icon" id="feedbackIcon">✓</div>
+                <div class="feedback-text" id="feedbackText">Richtig!</div>
+                <div class="explanation hidden" id="explanation"></div>
+                <button id="continueButton" class="btn btn-primary">Weiter</button>
+            </div>
+        </div>
+
+        <!-- Ergebnisse -->
+        <div id="resultsContainer" class="results-container hidden">
+            <h2>Quiz beendet!</h2>
+            <div class="final-results">
+                <div class="score-summary">
+                    <div class="score-item correct">
+                        <span class="score-number" id="finalCorrect">0</span>
+                        <span class="score-label">Richtig</span>
+                    </div>
+                    <div class="score-item incorrect">
+                        <span class="score-number" id="finalIncorrect">0</span>
+                        <span class="score-label">Falsch</span>
+                    </div>
+                    <div class="score-item percentage">
+                        <span class="score-number" id="finalPercentage">0%</span>
+                        <span class="score-label">Erfolgsquote</span>
+                    </div>
+                </div>
+                <div class="performance-message" id="performanceMessage"></div>
+                <div class="action-buttons">
+                    <button id="restartQuiz" class="btn btn-primary">Quiz wiederholen</button>
+                    <button id="newTopic" class="btn btn-secondary">Neues Thema wählen</button>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            &copy; 2025 Andreas Desel. Alle Rechte vorbehalten
+        </footer>
+    </div>
+
+    <script src="quiz-data.js"></script>
+    <script src="quiz-app.js"></script>
+</body>
+</html>
