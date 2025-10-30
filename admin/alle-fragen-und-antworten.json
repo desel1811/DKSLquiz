@@ -1,0 +1,4524 @@
+[
+  {
+    "thema": "1. Grundlagen",
+    "frage": "1. Die katabole Stoffwechsellage führt bei einigen Kinder dazu, dass zugefüttert werden muss.",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "nein"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "2. Wenn ein Neugeborenes sein Geburtsgewicht nach 14 Tagen nicht wieder erreicht hat...",
+    "antworten": [
+      "sollte sofort zugefüttert werden",
+      "sollte die Mutter ruhig bleiben, weiter stillen, nicht zufüttern und eine gut ausgebildete Still - und Laktationsberaterin kontaktieren. Wenn das Kind gesund ist und das Stillen klappt, muss nicht zugefüttert werden.",
+      "solte die Mutter zufüttern und eine gut ausgebildete Still- und Laktationsberaterin kontaktieren",
+      "sollte die Mutter weiter Stillen. Es muss nicht zugefüttert werden"
+    ],
+    "richtigeAntworten": [
+      "sollte die Mutter ruhig bleiben, weiter stillen, nicht zufüttern und eine gut ausgebildete Still - und Laktationsberaterin kontaktieren. Wenn das Kind gesund ist und das Stillen klappt, muss nicht zugefüttert werden."
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "3.Was bedeutet weißer oder gräulicher Stuhlgang?",
+    "antworten": [
+      "Kann eine normale Stuhlfarbe sein",
+      "Deutet auf einen Infekt hin",
+      "Deutet auf eine lebensbedrohliche Verstopfung der Leber hin. Es muss SOFORT ein Arzt aufgesucht werden"
+    ],
+    "richtigeAntworten": [
+      "Deutet auf eine lebensbedrohliche Verstopfung der Leber hin. Es muss SOFORT ein Arzt aufgesucht werden"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "4. Eine stillende Mutter sollte...",
+    "antworten": [
+      "viel trinken, um genügend Muttermilch bilden zu können",
+      "nicht über ihren Durst hinaus trinken. Zu viel Flüssigkeit kann durch das Ausspülen von Hormonen die Milchbildung mindern"
+    ],
+    "richtigeAntworten": [
+      "nicht über ihren Durst hinaus trinken. Zu viel Flüssigkeit kann durch das Ausspülen von Hormonen die Milchbildung mindern"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "5. was muss beachtet werden, wenn die Mutter Muttermilch sammeln möchte",
+    "antworten": [
+      "Sie darf die Milch zusammenschütten",
+      "Sie darf die Milch erst zusammenschütten, wenn die neue abgekühlt ist",
+      "Die gewonne Milch sollte, bei Klinikbedarf, mit Datum und Uhrzeit versehen werden. Zuhause empfielt sich dies ebenfalle. Dabei gilt die Zeit der zuerst addierten Milch"
+    ],
+    "richtigeAntworten": [
+      "Sie darf die Milch zusammenschütten",
+      "Die gewonne Milch sollte, bei Klinikbedarf, mit Datum und Uhrzeit versehen werden. Zuhause empfielt sich dies ebenfalle. Dabei gilt die Zeit der zuerst addierten Milch"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "6. Ein Schnuller dient der SIDS-Prophylaxe",
+    "antworten": [
+      "Bei einem vollgestillten Kind",
+      "Bei einem teilgestillten Kind",
+      "Bei ausschließlich Flaschen ernährten Kindern",
+      "Bei KEINEN Kindern",
+      "Bei Kindern mit Flasche UND Brust"
+    ],
+    "richtigeAntworten": [
+      "Bei ausschließlich Flaschen ernährten Kindern"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "7. Bei einer Fehlgeburt, ist was kontraindiziert, in der Begleitung der Mutter bzgl. Abstillen ?",
+    "antworten": [
+      "Enges Abbinden der Brust",
+      "Tragen eines gut sitzenden BH´s",
+      "Abstillmedikamente vor der initialen Brustdrüsenschwellung (Milcheinschuss)",
+      "Abstillmedikamente nach der initialen Brustdrüsenschwellung"
+    ],
+    "richtigeAntworten": [
+      "Enges Abbinden der Brust",
+      "Abstillmedikamente vor der initialen Brustdrüsenschwellung (Milcheinschuss)",
+      "Abstillmedikamente nach der initialen Brustdrüsenschwellung"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "8. Welches Hormon ist ausschlaggebend für das Einsetzten des Milchspendereflexes (MSR)?",
+    "antworten": [
+      "Prolaktin",
+      "Östrogen",
+      "Oxytocin"
+    ],
+    "richtigeAntworten": [
+      "Oxytocin"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "9. Ab wann kann ein Fötus schlucken?",
+    "antworten": [
+      "erstes Trimester",
+      "Ende zweites Trimester",
+      "Zweites Trimester",
+      "Mitte drittes Trimester"
+    ],
+    "richtigeAntworten": [
+      "Zweites Trimester"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "10. Eine starke initiale Brustdrüsenschwellung kann den Milchspendereflex (MSR) verzögern",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "11. Die Art der Fette können über die Ernährung der Mutter beeinflusst werden",
+    "antworten": [
+      "richtig",
+      "falsch",
+      "nur bei untergewichtigen Frauen"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "12. Eine Mutter fragt Dich ob Muttermilch, die bei normaler Raumtemperatur, 3,5 Stunden draußen stand stillfreundlich verabreicht werden kann",
+    "antworten": [
+      "Nein, da sie nur 3 Stunden haltbar ist",
+      "Nein, da sie nur 2 Stunden haltbar ist",
+      "ja, da sie maximal 4 Stunden haltbar ist",
+      "ja, weil normale Raumtemperatur kein Problem darstellt",
+      "Nein, normale Raumtemperatur ist zu warm"
+    ],
+    "richtigeAntworten": [
+      "ja, da sie maximal 4 Stunden haltbar ist",
+      "ja, weil normale Raumtemperatur kein Problem darstellt"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "13. Wie kann Muttermilch aufgewärmt werden?",
+    "antworten": [
+      "Im Wasserbad",
+      "In der Mikrowelle",
+      "Mit den Händen / zwischen den Brüsten",
+      "Im Flaschenwärmer"
+    ],
+    "richtigeAntworten": [
+      "Im Wasserbad",
+      "Mit den Händen / zwischen den Brüsten",
+      "Im Flaschenwärmer"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "14. Was sollte bei der Flaschengabe beachtet werden?",
+    "antworten": [
+      "Seitenwechsel, so das der Kopf einmal nach rechts und einmal nach links gedreht wird",
+      "viel Körperkontakt",
+      "Sitzendes füttern",
+      "Paced-Bottle-Feeding"
+    ],
+    "richtigeAntworten": [
+      "Seitenwechsel, so das der Kopf einmal nach rechts und einmal nach links gedreht wird",
+      "viel Körperkontakt",
+      "Paced-Bottle-Feeding"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "15. Wünsche der Mutter bei einer Trenung nach Geburt:",
+    "antworten": [
+      "Mehr Information bei der Trennung",
+      "Die Aufnahme des Geschwisterkindes",
+      "Professionelle Unterstützung nach der Trennung",
+      "Gemeinsame Unterbringung im Krankenhaus"
+    ],
+    "richtigeAntworten": [
+      "Mehr Information bei der Trennung",
+      "Professionelle Unterstützung nach der Trennung",
+      "Gemeinsame Unterbringung im Krankenhaus"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "16. eine Erstlingsmama ruft Dich besorgt an: Ist es normal, dass meine zweite Brust immer mit ausläuft beim Stillen ? Die bestmögliche Antwort lautet:",
+    "antworten": [
+      "Oh, da hast Du aber viel Milch",
+      "Das ist eine normale Reaktion Deines Körpers, der Milchspendereflex setzt immer beidseitig ein. Das Auslaufen auf der anderen Seite kann mit der Zeit nachlassen oder aufhöhren.",
+      "Das ist die ganze Stillzeit über so, am Besten gewöhnst Du Dich daran, Stilleinlagen können dabei helfen.",
+      "Auffangschalen oder Stilleinlagen sind sehr hilfreich"
+    ],
+    "richtigeAntworten": [
+      "Das ist eine normale Reaktion Deines Körpers, der Milchspendereflex setzt immer beidseitig ein. Das Auslaufen auf der anderen Seite kann mit der Zeit nachlassen oder aufhöhren."
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "17. Wo wird Prolaktin gebildet?",
+    "antworten": [
+      "Im Vorderlappen der Hypophyse",
+      "Im Hinterlappen der Hypohpyse",
+      "Im Vorderlappen der Schilddrüse",
+      "Im Hinterlappen der Schilddrüse",
+      "Im Hypothalamus"
+    ],
+    "richtigeAntworten": [
+      "Im Vorderlappen der Hypophyse"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "18. Was bildet der Hypothalamus?",
+    "antworten": [
+      "Vasopressin",
+      "Oxitocin",
+      "Inhibiting Hormone",
+      "Prolaktin"
+    ],
+    "richtigeAntworten": [
+      "Vasopressin",
+      "Oxitocin",
+      "Inhibiting Hormone"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "19. Eine Mutter berichtet, dass sie immer durstig ist beim Stillen. Welches Hormon löst das Durstgefühl aus?",
+    "antworten": [
+      "Prolaktin",
+      "Oxitocin",
+      "Prolaktin und Oxitocin"
+    ],
+    "richtigeAntworten": [
+      "Oxitocin"
+    ]
+  },
+  {
+    "thema": "1. Grundlagen",
+    "frage": "20. Eine Mutter meldet sich notfallmäßig bei Dir und berichtet weinend, dass sie negative Gefühle beim Stillen empfindet, sie befürchtet, dass sie ihr Kind nicht genug liebt und sie nicht 'normal' sei. Welche Informationen sind wichtig für sie?",
+    "antworten": [
+      "Dieses Gefühl haben einige Frauen, es wird D-MER genannt",
+      "Nur wenige Frauen sprechen offen darüber, daher ist es nicht sehr bekannt",
+      "Angebote der Entspannung und Meditation",
+      "Es kann helfen ein eiskaltes Getränk zu trinken oder sich abzulenken"
+    ],
+    "richtigeAntworten": [
+      "Dieses Gefühl haben einige Frauen, es wird D-MER genannt",
+      "Nur wenige Frauen sprechen offen darüber, daher ist es nicht sehr bekannt",
+      "Angebote der Entspannung und Meditation",
+      "Es kann helfen ein eiskaltes Getränk zu trinken oder sich abzulenken"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "1. Was ist Laktogenese I?",
+    "antworten": [
+      "Ausreifung der sekretorischen Funktion der Brust unter Einfluss des Hormons Progesteron",
+      "Ausreifung der sekretorischen Funktion der Brust unter Einfluss des Hormons Prolaktin",
+      "Ausreifung der intrinsischen Funktion der Brust unter Einfluss des Hormons Prolaktin",
+      "Ausreifung der intrinsischen Funktion der Brust unter Einfluss des Hormons Progesteron"
+    ],
+    "richtigeAntworten": [
+      "Ausreifung der sekretorischen Funktion der Brust unter Einfluss des Hormons Prolaktin"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "2. welche Hormone schränken die Milchsynthese in der Schwangerschaft ein?",
+    "antworten": [
+      "Prolaktin",
+      "Östrogen",
+      "Progesteron",
+      "Oxytocin",
+      "HPL"
+    ],
+    "richtigeAntworten": [
+      "Progesteron",
+      "HPL"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "3 Was sind Tight Junctions?",
+    "antworten": [
+      "Verbindungen der Lactozyten",
+      "Verbindungen der Milchgänge",
+      "Ausführungsgänge der Milchdrüsen",
+      "Verbindungen die erst noch entstehen"
+    ],
+    "richtigeAntworten": [
+      "Verbindungen der Lactozyten",
+      "Verbindungen die erst noch entstehen"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "4. Lactogenese II ist zeitlich wann?",
+    "antworten": [
+      "Ab dem 2. Drittel der Schwangerschaft bis 96 Stunden nach der Geburt",
+      "Ab Geburt bis 96 Stunden nach der Geburt",
+      "Ab Tag 2-3 nach Geburt bis Tag 8",
+      "Ab Tag 2-3 nach Geburt bis zur Involution"
+    ],
+    "richtigeAntworten": [
+      "Ab Tag 2-3 nach Geburt bis Tag 8"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "5. Wo befindet sich der größte Drüsenlappen?",
+    "antworten": [
+      "unten mittig",
+      "äußerer untere Quadrant",
+      "innerer unterer Quadrant",
+      "äußerer oberer Quadrant",
+      "Sie sind alle gleich"
+    ],
+    "richtigeAntworten": [
+      "äußerer oberer Quadrant"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "6. Die Milchsynthese wird durch das Hormon Prolactin beeinflusst. Die Abholung der Milch ist irrelevant",
+    "antworten": [
+      "falsch",
+      "richtig"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "7. Wichtige Hormone die die Mammogenese beeinflussen sind",
+    "antworten": [
+      "Insulin - und Schilddrüsenhormone",
+      "Insulinhormone Prolaktin Oxytocin Östrogen",
+      "Prolactin",
+      "Insulin- und Schilddrüsenhormone Oxytocin ACTH",
+      "Glucocortikoide und ACTH"
+    ],
+    "richtigeAntworten": [
+      "Insulin - und Schilddrüsenhormone",
+      "Prolactin",
+      "Glucocortikoide und ACTH"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "9. Eine Schlupfwarze (pseudo-inverted)",
+    "antworten": [
+      "Tritt bei Stimulation nicht hervor",
+      "Tritt bei Stimulation hervor",
+      "zieht sich bei Stimulation zurück",
+      "ist immer innen liegend",
+      "Kann sich bei einer langen Stillzeit verändern"
+    ],
+    "richtigeAntworten": [
+      "Tritt bei Stimulation hervor",
+      "Kann sich bei einer langen Stillzeit verändern"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "10. Welche Form der Mamille kann die meisten Beschwerden beim Stillen verursachen?",
+    "antworten": [
+      "Schlupfwarze",
+      "Eingezogene Warze",
+      "Holwarze",
+      "Keine"
+    ],
+    "richtigeAntworten": [
+      "Holwarze"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "11. Was sind die Cooperschen Ligamente?",
+    "antworten": [
+      "Bindegewebe zwischen den Alveolen, dienst dem Schutz",
+      "Bindegewebe zwischen den Tubuli, dient der Beweglichkeit",
+      "Bindegewebe, dass eine stützende Funktion hat",
+      "Bindegewebe, dass eine haltende Funktion hat",
+      "Septen, die nur eine haltende Funktion haben",
+      "Septen, die eine lockernde Funktion haben"
+    ],
+    "richtigeAntworten": [
+      "Bindegewebe, dass eine stützende Funktion hat",
+      "Bindegewebe, dass eine haltende Funktion hat"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "12. Die Alveolen sind durch...umkleidet",
+    "antworten": [
+      "Bindegewebe",
+      "Quergestreifte Muskulatur",
+      "korbartige glatte Muskulatur",
+      "Fettgewebe"
+    ],
+    "richtigeAntworten": [
+      "korbartige glatte Muskulatur"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "13. Eine große Brust produziert immer mehr Milch",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "14. HPL ist ein Hormon",
+    "antworten": [
+      "das jede Frau produziert",
+      "das nur Frauen produzieren, die eine künstliche Befruchtung hatten",
+      "das nur Frauen haben, die schwanger sind",
+      "das die Rezeptoren der Laktozyten in den Alveolen besetzt",
+      "das die Milchbildung stark einschränkt",
+      "das sofort nach der Geburt komplett aus dem Körper ausgeschwemmt wird"
+    ],
+    "richtigeAntworten": [
+      "das nur Frauen haben, die schwanger sind",
+      "das die Rezeptoren der Laktozyten in den Alveolen besetzt",
+      "das die Milchbildung stark einschränkt",
+      "das sofort nach der Geburt komplett aus dem Körper ausgeschwemmt wird"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "15. Nachfrage regelt das Angebot und auch die Speicherkapazität",
+    "antworten": [
+      "faslch",
+      "richtig"
+    ],
+    "richtigeAntworten": [
+      "faslch"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "16. Eine Schwellung in der Achsel kann häufig bei einer initialen Brustdrüsenschwellung auftreten",
+    "antworten": [
+      "durch vermehrte Lyphflüßigkeit",
+      "durch versprengtes Drüsengewebe",
+      "durch ineffektive Entleerung der Brust",
+      "durch zu weniges anlegen"
+    ],
+    "richtigeAntworten": [
+      "durch versprengtes Drüsengewebe"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "17. Eine tubuläre Brust kann in wieviele Stadien eingeteilt werden?",
+    "antworten": [
+      "6",
+      "5",
+      "4",
+      "3"
+    ],
+    "richtigeAntworten": [
+      "4"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "18. Bei Typ 2 der tubulären Brust,",
+    "antworten": [
+      "fehlen beide unteren Quadranten",
+      "fehlen beide unteren Quadranten und ein Hauptmanteldefizit liegt vor"
+    ],
+    "richtigeAntworten": [
+      "fehlen beide unteren Quadranten"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "19. Mit der tubulären Brust ist Vorstillen nicht möglich",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "2. Anatomie und Physiologie der Brust",
+    "frage": "20. Bei welchen Formen der Brustoperation ist das Risiko am höchsten das Stillprobleme aufterten?",
+    "antworten": [
+      "Wenn das Implantat hinter die Brust gesetzt wird",
+      "Wenn das Implantat durch die Hautfalte eingesetztz wird",
+      "Bei der Reduktionsplastik",
+      "Wenn die Areola versetzt wird"
+    ],
+    "richtigeAntworten": [
+      "Bei der Reduktionsplastik",
+      "Wenn die Areola versetzt wird"
+    ]
+  },
+  {
+    "thema": "3. Anatomie des Säuglings",
+    "frage": "1.. Welches sind Schwierigkeiten die mit einer Lippen,- Kiefer-, Gauemenspalte einhergehen?",
+    "antworten": [
+      "Nasalität, Probleme bei der Nahrungsaufnahme, geistige Retardierungen",
+      "Erschwerte Nahrungsaufnahme, Nasalität, motorische Beeinträchtigungen",
+      "Sprachprobleme, Probleme bei der Nahrungsaufnahme, Infektanfälligkeit",
+      "Nasalität, Probleme bei der Nahrungsaufnahme, Geschmacksstörungen"
+    ],
+    "richtigeAntworten": [
+      "Sprachprobleme, Probleme bei der Nahrungsaufnahme, Infektanfälligkeit"
+    ]
+  },
+  {
+    "thema": "3. Anatomie des Säuglings",
+    "frage": "2. Wo setzt das Hyoid (Zungenbein) an?",
+    "antworten": [
+      "Am Kehlkopf",
+      "An der Zunge",
+      "Am Gaumen",
+      "Am Mundboden"
+    ],
+    "richtigeAntworten": [
+      "Am Kehlkopf",
+      "An der Zunge"
+    ]
+  },
+  {
+    "thema": "3. Anatomie des Säuglings",
+    "frage": "3. Welche anatomische Struktur ist im Säuglingsalter noch nicht entwickelt?",
+    "antworten": [
+      "Oropharynx",
+      "Nasopharynx",
+      "Gaumenbögen",
+      "Kieferhöhle"
+    ],
+    "richtigeAntworten": [
+      "Oropharynx"
+    ]
+  },
+  {
+    "thema": "3. Anatomie des Säuglings",
+    "frage": "4. Welche Funktion haben die Saugpolster?",
+    "antworten": [
+      "Sie geben dem Säugling ein niedliches Aussehen und setzen somit das Bindungshormon Oxytocin bei der Bezugsperson frei",
+      "Sie kompensieren die, noch wenig entwickelte, Muskulatur in den Wangen",
+      "Sie speichern wichtige Fettreserven",
+      "Sie reduzieren das Refluxrisiko"
+    ],
+    "richtigeAntworten": [
+      "Sie kompensieren die, noch wenig entwickelte, Muskulatur in den Wangen"
+    ]
+  },
+  {
+    "thema": "3. Anatomie des Säuglings",
+    "frage": "5. Der M. orbicularis oris (Mundringmuskel)",
+    "antworten": [
+      "Wird vom V Hirnnerv innerviert",
+      "bildet die muskuläre Grundlage der Wange",
+      "öffnet und schließt die Lippen",
+      "verläuft vom Jochbein bis zum Mundwinkel"
+    ],
+    "richtigeAntworten": [
+      "öffnet und schließt die Lippen"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "1.Aus welchen 2 Monosachariden setzt sich das Disacharid Laktose zusammen?",
+    "antworten": [
+      "Glucose und Galactose",
+      "Fruktose und Sacharose",
+      "Galaktose und Fruktose",
+      "Fruktose und Glukose"
+    ],
+    "richtigeAntworten": [
+      "Glucose und Galactose"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "2. Ab wann wird das Enzym Laktase im Säugling synthetisiert?",
+    "antworten": [
+      "Ab Geburt",
+      " Ab 6 Monaten",
+      " Ab der 24 Schwangerschaftswoche",
+      " Ab der 36 Schwangerschaftswoche"
+    ],
+    "richtigeAntworten": [
+      " Ab der 24 Schwangerschaftswoche"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "3. Zu wieviel Prozent besteht Muttermilch aus Kohlenhydraten?",
+    "antworten": [
+      "4%",
+      "7%",
+      "1%",
+      "88%"
+    ],
+    "richtigeAntworten": [
+      "7%"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "4. Wie viele verschiedene Oligosacharide wurden bisher in Muttermilch identifiziert?",
+    "antworten": [
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "richtigeAntworten": [
+      "200"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "5. Welches der folgenden Kohlenhydrate kommt in Muttermilch vor?",
+    "antworten": [
+      "Oligosacharide",
+      "Glykonyugate",
+      "Laktose",
+      "Fruktose"
+    ],
+    "richtigeAntworten": [
+      "Oligosacharide",
+      "Glykonyugate",
+      "Laktose"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "6. Alle der genannten sind Molkeproteine, bis auf...",
+    "antworten": [
+      "a-Lactalbumin",
+      "Lactoferrin",
+      "Kasein",
+      "Lysozym"
+    ],
+    "richtigeAntworten": [
+      "Kasein"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "7. Das Verhältnis von Molke zu Kasein im Kolostrum beträgt",
+    "antworten": [
+      "80:20",
+      "50:50",
+      "60:40",
+      "20:80"
+    ],
+    "richtigeAntworten": [
+      "80:20"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "8. Für was ist der Komplex HAMLET bekannt?",
+    "antworten": [
+      "Er ist an der Synthese von Laktose beteiligt",
+      "Er ist aktiv gegen mindestens 40 Tumorarten",
+      "Er wirkt schmerzlindernd",
+      "Er hält lange satt"
+    ],
+    "richtigeAntworten": [
+      "Er ist aktiv gegen mindestens 40 Tumorarten"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "9. Welche Komponente hat Einfluss auf die Häufigkeit und Konsistenz der kindlichen Darmausscheidungen?",
+    "antworten": [
+      "Laktose",
+      "Das Verhältnis von Kasein zu Molke",
+      "Fette",
+      "Wassergehalt"
+    ],
+    "richtigeAntworten": [
+      "Das Verhältnis von Kasein zu Molke"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "10. Was bestimmt die Konzentration von Milchfetten in der Muttermilch?",
+    "antworten": [
+      "Die Ernährung der Mutter",
+      "Den Grad der Füllmenge der Brust",
+      "Das Alter der Mutter"
+    ],
+    "richtigeAntworten": [
+      "Den Grad der Füllmenge der Brust"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "11. Die Fettverdauung wird durch Lipase in der Muttermilch unterstützt. Welche Art der Lipase kommt in der Muttermilch vor?",
+    "antworten": [
+      "Pankreaslipase",
+      "Gallensalz stimmulierte Lipase",
+      "Linguale Lipase",
+      "Magenlipase"
+    ],
+    "richtigeAntworten": [
+      "Gallensalz stimmulierte Lipase"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "12. Wie beeinflusst die mütterliche Ernährung den Cholesteringehalt der Muttermilch?",
+    "antworten": [
+      "Wenn der Cholesterinspiegel der Mutter hoch ist, ist auch der Cholesterinspiegel in der Muttermilch hoch",
+      "Der Cholesterinspiegel der Mutter hat keinen Einfluss auf den Cholesteringehalt der Muttermilch",
+      "Wenn die Mutter cholesterinsenkende Medikamente zu sich nimmt, kann der Cholesteringehalt der Muttermilch gefährlich tief sinken",
+      "Die Mutter sollte durch cholesterinarme Ernährung den Cholesterinspiegel in der Muttermilch möglichst niedrig halten"
+    ],
+    "richtigeAntworten": [
+      "Der Cholesterinspiegel der Mutter hat keinen Einfluss auf den Cholesteringehalt der Muttermilch"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "13. Gestillte Säuglinge, denen übermäßig viel angezogen wird oder die die meiste Zeit drinnen verbringen, können welchen Mangel bekommen?",
+    "antworten": [
+      "Vitamin K",
+      "Vitamin D",
+      "Calcium",
+      "Folat"
+    ],
+    "richtigeAntworten": [
+      "Vitamin D"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "14. Dieses mütterliche Verhalten verringert die antioxidative Wirkung von Vitaminen",
+    "antworten": [
+      "ungesunde Ernährung",
+      "zu wenig Schlaf",
+      "Rauchen",
+      "Alle der genannten"
+    ],
+    "richtigeAntworten": [
+      "Rauchen"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "15. Ein Mangel an welchem Mineral ist eine der Hauptursachen für Hirnschäden bei Säuglingen?",
+    "antworten": [
+      "Jod",
+      "Eisen",
+      "Zink",
+      "Calcium"
+    ],
+    "richtigeAntworten": [
+      "Jod"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "16. Welches Mineral in der Muttermilch hat eine sehr hohe Bioverfügbarkeit, die durch Laktose und Vitamin Cverstärkt wird?",
+    "antworten": [
+      "Zink",
+      "Selen",
+      "Jod",
+      "Eisen"
+    ],
+    "richtigeAntworten": [
+      "Eisen"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "17. Ist eine Supplementierung von Vitamin K und Vitamin D, ohne Ausnahmen, immer notwendig?",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "nein"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "18. In wiefern unterscheidet sich in der Schwangerschaft gesammeltes Kolostrum von dem Kolostrum nach der Geburt?",
+    "antworten": [
+      "fast gar nicht",
+      "Der Laktosegehalt ist im Kolostrum nach der Geburt höher",
+      "StgA ist nach der Geburt niedriger",
+      "Der Glukosegehalt ist in der Schwangerschaft geringer"
+    ],
+    "richtigeAntworten": [
+      "fast gar nicht"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "19. Die Muttermilch ist bläulich weil...",
+    "antworten": [
+      "sie nur wenige Nährstoffe enthält",
+      "sie mehr Molke als Kasein enthält",
+      "die Mutter blaue Lebensmittel gegessen hat"
+    ],
+    "richtigeAntworten": [
+      "sie mehr Molke als Kasein enthält"
+    ]
+  },
+  {
+    "thema": "4. Zusammensetzung der Muttermilch",
+    "frage": "20. Wozu sind Oligosacharide da?",
+    "antworten": [
+      "für nichts, sie werden einfach wieder ausgeschieden",
+      "sie ernähren wichtige Bakterien und sorgen so für ein einzigartiges Mikrobiom und stärken das Immunsystem",
+      "sie liefern wie andere Kohlenhydrate Energie",
+      "wir wissen nicht wozu sie da sind"
+    ],
+    "richtigeAntworten": [
+      "sie ernähren wichtige Bakterien und sorgen so für ein einzigartiges Mikrobiom und stärken das Immunsystem"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "1. Unsere \\",
+    "antworten": [
+      "Sie könnten mit dem \\",
+      " ausgetauscht werden",
+      "Sie sind geprägt durch die Lebensweise der letzten 8 Millionen Jahre",
+      "Babys wurden damals viel bei den Mitgliedern des Stammes gelassen, während die Eltern jagen und sammeln gingen",
+      "Die Sesshaftigkeit erfolgte erst vor 2000 Jahren"
+    ],
+    "richtigeAntworten": [
+      "Sie könnten mit dem \\"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "2. Wer ist der Pionier der Bindungstheorie?",
+    "antworten": [
+      "Ainsworth",
+      "Bowlby",
+      "Harlow",
+      "Sears"
+    ],
+    "richtigeAntworten": [
+      "Bowlby"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "3. welches ist KEINE Klassifizierung der Bindungstheorie?",
+    "antworten": [
+      "Sichere Bindung",
+      "Traumatisierte Bindung",
+      "Desorganisierte Bindung",
+      "Unsicher-ambivalente Bindung"
+    ],
+    "richtigeAntworten": [
+      "Traumatisierte Bindung"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "4. Wann ist der Schreigipfel?",
+    "antworten": [
+      "Mit genau 3 Monaten",
+      "ungefähr zwischen 4-6 Wochen",
+      "3-4 Monate",
+      "8 Wochen"
+    ],
+    "richtigeAntworten": [
+      "ungefähr zwischen 4-6 Wochen"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "5. Was bedeutet Objektpermanent?",
+    "antworten": [
+      "Dass Baby ist auf ein Objekt fixiert",
+      "Frühestens mit 8-9 Monaten sind die Eltern weiterhin existent, wenn sie den Raum verlassen",
+      "Spätestens mit 8-9 Monaten sind die Eletrn weiterhin existent, wenn sie den Raum verlassen",
+      "Die Eltern sind auf ihr Baby fixiert"
+    ],
+    "richtigeAntworten": [
+      "Frühestens mit 8-9 Monaten sind die Eltern weiterhin existent, wenn sie den Raum verlassen"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "6. Welchen Jungentypus gibt es wirklich?",
+    "antworten": [
+      "Nestflüchter",
+      "Nestvertreiber",
+      "Traglinge",
+      "passive Nesthocker"
+    ],
+    "richtigeAntworten": [
+      "Nestflüchter",
+      "Traglinge"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "7. Welche Voraussetzungen für korrektes  Tragen sind nicht korrekt?",
+    "antworten": [
+      "Rücken muss gerade sein",
+      "Anhock-Spreitz-Haltung",
+      "Gute Stützung",
+      "80 Grad Spreizung"
+    ],
+    "richtigeAntworten": [
+      "Rücken muss gerade sein",
+      "80 Grad Spreizung"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "8. Welches ist kein Grund für eine grundsätzliche Ablehnung eines Tuches / der Trage?",
+    "antworten": [
+      "Unwillen des Kindes",
+      "Unwillen der Mutter",
+      "Ergonomie der Tragehilfe",
+      "Das Baby muss mal.."
+    ],
+    "richtigeAntworten": [
+      "Unwillen des Kindes"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "9. Was ist das Prinzip der Doppelbindung?",
+    "antworten": [
+      "Mir geht es nicht gut und / bitte hilf mir",
+      "Der Eindruck den man hat widerspricht den Worten der Person",
+      "der Eindruck den man hat stimmt mit den Worten der Person überein"
+    ],
+    "richtigeAntworten": [
+      "Der Eindruck den man hat widerspricht den Worten der Person"
+    ]
+  },
+  {
+    "thema": "5. Psychologie und Entwicklung",
+    "frage": "10. Worauf muss man achten, wenn eine Mutter emotionale Hilfe braucht?",
+    "antworten": [
+      "ich nehme mir Zeit für sie und finde eine Lösung",
+      "ich überprüfe, ob ich die nötige Zeit, Energie und Kompetenz besitze um ihr helfen zu können",
+      "ich verweise sie sofort an einen Psychologen, ohne ihr zuzuhören",
+      "ich habe keine Lust ihr zu helfen und höre ihr nicht zu"
+    ],
+    "richtigeAntworten": [
+      "ich überprüfe, ob ich die nötige Zeit, Energie und Kompetenz besitze um ihr helfen zu können"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "1. Was sind die aktuellen Empfehlungen bezüglich des Stillens für HIV positive Mütter?",
+    "antworten": [
+      "Es wird empfohlen dass diese Mütter auf jeden Fall nicht stillen",
+      "Es wird empfohlen, 12 Monate zu stillen und dann aufzuhören wenn eine gesunde Ernährung möglich ist",
+      "Es wird empfohlen, dass Mütter in Dritte Welt Ländern stillen sollen aber in Ländern wo es sauberes Wasser gibt und Formula ohne Probleme gegeben werden kann lieber nicht gestillt werden sollte",
+      "Es wird empfohlen, dass ALLE Mütter die mit HIV leben und ART Antiretrovirale Therapie bekommen die ersten 6 Monate exklusiv Stillen sollen und dann Beikost einführen. Stillen und Beikost kann bis zum Alter von 24 Monaten oder darüber hinaus fortgesetzt werden"
+    ],
+    "richtigeAntworten": [
+      "Es wird empfohlen, dass ALLE Mütter die mit HIV leben und ART Antiretrovirale Therapie bekommen die ersten 6 Monate exklusiv Stillen sollen und dann Beikost einführen. Stillen und Beikost kann bis zum Alter von 24 Monaten oder darüber hinaus fortgesetzt werden"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "2. Gestillte Säuglinge haben niedrigere Blutzuckerkonzentrationen, aber höhere Konzentartionen von Ketonkörpern",
+    "antworten": [
+      "stimmt",
+      "stimmt nicht"
+    ],
+    "richtigeAntworten": [
+      "stimmt"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "3. Wie ist es möglich, eine Blutzuckerkonzentration beim Säugling zu bestimmen, die ein Eingreifen bei einem gesunden Säugling erfordert?",
+    "antworten": [
+      "Blutabnahme",
+      "Urinteststreifen",
+      "Blutzuckerteststreifen",
+      "es ist nicht möglich, weil es keinen Wert gibt, bei dem bei einem gesunden Säugling eingegriffen werden muss"
+    ],
+    "richtigeAntworten": [
+      "es ist nicht möglich, weil es keinen Wert gibt, bei dem bei einem gesunden Säugling eingegriffen werden muss"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "4. Was ist die beste Möglichkeit um einer Hypoglykämie beim gesunden Neugeborenen vorzubeugen?",
+    "antworten": [
+      "Zufüttern von Pre",
+      "Kolostrum",
+      "Zufüttern von Glukoselösung",
+      "Reife Muttermilch"
+    ],
+    "richtigeAntworten": [
+      "Kolostrum"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "5. Worauf sind hohe Bilirubinwerte beim gesunden Neugeborenen zurückzuführen?",
+    "antworten": [
+      "Das Kind verträgt die Muttermilch nicht",
+      "Das Kind braucht zusätzliche Formulaernährung",
+      "Das Kind bekommt nicht genug Muttermilch / wird zu wenig gestillt"
+    ],
+    "richtigeAntworten": [
+      "Das Kind bekommt nicht genug Muttermilch / wird zu wenig gestillt"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "6. Wenn ein Kind eine Nahrungsmittelunverträglichkeit oder Allergie hat sollte die Mutter vorsichtshalber abstillen um das Kind nicht weiter zu gefährden",
+    "antworten": [
+      "stimmt",
+      "stimmt nicht"
+    ],
+    "richtigeAntworten": [
+      "stimmt nicht"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "7. Ein Kind auf der Intensivstation darf nicht gestillt werden",
+    "antworten": [
+      "richtig",
+      "das ist individuell"
+    ],
+    "richtigeAntworten": [
+      "das ist individuell"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "8. Welche Erkrankung des Kindes ist definitiv eine Kontraindikation für das Stillen?",
+    "antworten": [
+      "Phenylketourie(PKU)",
+      "Galaktosämie (GALT)",
+      "starke Hirnblutung",
+      "Darmoperation"
+    ],
+    "richtigeAntworten": [
+      "Galaktosämie (GALT)"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "9. Es gibt bestimmte Erkrankungen bei denen eine Miscernährung (Stillen und Spezialnahrung) notwendig ist",
+    "antworten": [
+      "richtig",
+      "nein, ausschließliches Stillen ist immer möglich"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "10. Wenn ein stillendes Kind an Diabetes erkrankt ist...",
+    "antworten": [
+      "kann es uneingeschränkt weiter stillen, Abstillen wäre kontraindiziert",
+      "kann eine kurze Stillpause nötig sein, mit anschließendem Stillen",
+      "sollte das 3 Tage pausiert werden",
+      "darf nicht mehr gestillt werden"
+    ],
+    "richtigeAntworten": [
+      "kann eine kurze Stillpause nötig sein, mit anschließendem Stillen"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": " 11. während einem Stillvorbereitungskurs, klagt eine Mutter über starken Schwindel, sie sieht Flecken und ist kurzatmig. Du hast bereits im Vorfeld bei Gesprächen mitbekommen, dass sie immer wieder hohe Blutdruckwerte hatte. Wie reagierst Du?",
+    "antworten": [
+      "Du gibst ihr etwas Kaffee zu trinken",
+      "Du beruhigst sie",
+      "Rufst den Notarzt",
+      "Pausierst den Kurs"
+    ],
+    "richtigeAntworten": [
+      "Du beruhigst sie",
+      "Rufst den Notarzt",
+      "Pausierst den Kurs"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "12. Eine Mutter mit einem 2 Wochen alten Kind kommt in deine Beratung, sie hat zu wenig Milch und das Kind nimmt nicht gut zu. Was können mögliche Ursachen sein?",
+    "antworten": [
+      "Gabe eines Schnullers",
+      "Starke Blutungen nach der Geburt",
+      "ein immer noch zu niedriger Hb-Wert",
+      "Das Anlegen jede Stunde"
+    ],
+    "richtigeAntworten": [
+      "Gabe eines Schnullers",
+      "Starke Blutungen nach der Geburt",
+      "ein immer noch zu niedriger Hb-Wert"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "13. Nach einer postpartalen Blutung kann es zu welchen Komplikationen kommen?",
+    "antworten": [
+      "Zuviel Milch",
+      "gestörtes Bonding",
+      "posttraumatische Belastungsstörung",
+      "zu einer sofort einsetzenden Laktogenese II"
+    ],
+    "richtigeAntworten": [
+      "gestörtes Bonding",
+      "posttraumatische Belastungsstörung"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "14. Eine Mutter hat nach 4 Wochen immer noch zu wenig Milch, obwohl das Stillmanagement gut ist und eine orale Restriktion ausgeschlossen ist. Was ist wichtig abzuklären?",
+    "antworten": [
+      "trinkt die Mutter täglich 4 Liter Wasser?",
+      "könnten Plazentareste vorhanden sein",
+      "gab es vorherige Brustoperationen",
+      "aktuelle Schilddrüsenwerte erfragen / abnehmen lassen"
+    ],
+    "richtigeAntworten": [
+      "könnten Plazentareste vorhanden sein",
+      "gab es vorherige Brustoperationen",
+      "aktuelle Schilddrüsenwerte erfragen / abnehmen lassen"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "15. Während einer Beratung, berichtet die Mutter, dass sie seit 4 Wochen nichts mehr essen kann, weil ihre Mutter gestorben ist",
+    "antworten": [
+      "Die Qualität der Muttermilch bleibt gleich, lediglich die Quantität könnte abnehmen",
+      "Die Mutter muss das Stillen pausieren weil die Milch zu viele Abfallstoffe beinhalten kann",
+      "Die Muttermilch wird definitiv zu wenig sein",
+      "Vorschläge bzgl hochkalorischer Trinknahrung für die Mutter und menttale Unterstützung erwähnen"
+    ],
+    "richtigeAntworten": [
+      "Die Qualität der Muttermilch bleibt gleich, lediglich die Quantität könnte abnehmen",
+      "Vorschläge bzgl hochkalorischer Trinknahrung für die Mutter und menttale Unterstützung erwähnen"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "16. Ab wann kann ein Kind mit einer Chonalatresie angelegt werden?",
+    "antworten": [
+      "direkt nach der Geburt",
+      "sobald die Nasenatmung effizient ist",
+      "wenn die Stents draussen sind",
+      "erst auf der Normalstation"
+    ],
+    "richtigeAntworten": [
+      "sobald die Nasenatmung effizient ist"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "17. Was unterstützt herzkranke Kinder beim Stillen?",
+    "antworten": [
+      "lange ausgedehnte Stillmahlzeiten",
+      "viele kurze Stillmahlzeiten",
+      "aufrechte Sitzposition",
+      "Brustmassage - und Kompression",
+      "vorheriges Abpumpen"
+    ],
+    "richtigeAntworten": [
+      "viele kurze Stillmahlzeiten",
+      "aufrechte Sitzposition",
+      "Brustmassage - und Kompression"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "18. Mögliche Komplikationen eines LGA",
+    "antworten": [
+      "Hypoglykämie",
+      "Hyperklykämie",
+      "Geburtstrauma",
+      "vorzeitige Geburt"
+    ],
+    "richtigeAntworten": [
+      "Hypoglykämie",
+      "Geburtstrauma"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "19. ein Kind, dass per Sectio auf die Welt kam, hat an Tag 4 12% abgenommen, Geburtsgewicht 4300g, Abnahme 559g ( auf 3741g). Gewicht nach 24 Stunden war 4000g. Muss zugefütetrt werden?",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "nein"
+    ]
+  },
+  {
+    "thema": "6. Gesundheitszustand",
+    "frage": "20. Das Andicken von Muttermilch bei einem GÖR bewirkt",
+    "antworten": [
+      "meist ein schnelles Abstillen",
+      "verändert immer das Spucken des Kindes",
+      "eine gute Gewichtszunahme"
+    ],
+    "richtigeAntworten": [
+      "meist ein schnelles Abstillen"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "1. Was sind die ersten 1000 Tage?",
+    "antworten": [
+      "von der Geburt bis zum Ende des dritten Lebensjahres",
+      "von der Zeugung bis zum Ende des zweiten Lebensjahres",
+      "von der Geburt bis zum dritten Lebensjahr",
+      "von der Zeugung bis zum zweiten Lebensjahr"
+    ],
+    "richtigeAntworten": [
+      "von der Zeugung bis zum Ende des zweiten Lebensjahres"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "2. Du berätst eine Mutter deren Kinderarzt ihr sagt, dass sie mit 4 Monaten mit mit Breigläschen anfangen soll. Die Anamnese ergab keine Auffälligkeiten. Du möchtest ihr empfehlen nicht vor Vollendung von 6 Monaten plus Erfüllung aller Beikostreifezeichen zu beginnen. Welche Quellen kannst Du ihr nennen?",
+    "antworten": [
+      "DGE",
+      "Stillkommission",
+      "einen anderen Kinderarzt",
+      "WHO"
+    ],
+    "richtigeAntworten": [
+      "WHO"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "3. Du benötigst mehr Informationen, weil du den WHO Kodex im Orginal nicht verstehst. Was kannst Du tun?",
+    "antworten": [
+      "ich überstze ihn Schritt für Schritt mit einem online Übersetzer",
+      "ich suche nach - the international code of marketing of breastmilk substitutes frequently asked questions- auf der IBFAN Seite und übersetze was ich dort nicht verstehe mit einem online Übersetzer",
+      "ich versuche mit einer Suchmaschine Quellen wie Blogs, Stillorganisationen, Seiten von Stillberatern zu finden die das Thema näher erklären"
+    ],
+    "richtigeAntworten": [
+      "ich überstze ihn Schritt für Schritt mit einem online Übersetzer",
+      "ich suche nach - the international code of marketing of breastmilk substitutes frequently asked questions- auf der IBFAN Seite und übersetze was ich dort nicht verstehe mit einem online Übersetzer"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "4. Welche Folgen hat es für eine Still- und Laktationsberaterin DKSL, wenn sie sich nicht an den WHO Kodes hält?",
+    "antworten": [
+      "sie bekommt ihr Zertifikat aberkannt",
+      "sie kann dafür gemeldet werden",
+      "sie kann dafür rechtskräftig verurteilt werden",
+      "sie schadet damit dem Ziel der Stillförderung, einer oder mehrerer Stillbeziehungen und damit auch einem oder mehreren Babys"
+    ],
+    "richtigeAntworten": [
+      "sie bekommt ihr Zertifikat aberkannt",
+      "sie kann dafür gemeldet werden",
+      "sie schadet damit dem Ziel der Stillförderung, einer oder mehrerer Stillbeziehungen und damit auch einem oder mehreren Babys"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "5. Was ist laut -babyfreundlich- keiner der 10 Schritte?",
+    "antworten": [
+      "wir verpflichten unsere Mitarbeitenden zu jährlichen Fortbildungen, um Eltern und Kindern kompetent zur Seite zu stehen",
+      "bei uns bekommen gestillte Neugeborene nur bei medizinischer Indikation andere Nahrung. Wir vermeiden künstliche Sauger",
+      "entscheiden sie sich für eine andere Ernährungsform so beraten wir sie individuell zu Flaschenfütterung und Bindungsaufbau"
+    ],
+    "richtigeAntworten": [
+      "wir verpflichten unsere Mitarbeitenden zu jährlichen Fortbildungen, um Eltern und Kindern kompetent zur Seite zu stehen"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "6. Eine Mutter kommt zu dir und sagt dir dass sie nicht stillen will. Was tust du=",
+    "antworten": [
+      "ich sage ihr, dass das ganz alleine ihre Entscheidung ist",
+      "ich sage ihr, dass Kinder auch mit Formula Ernährung gesund aufwachsen",
+      "ich sage ihr, dass sie diese Entscheidung selbst bestimmt treffen darf, dies aber nur möglich ist wenn sie vollumfänglich informiert ist. Ich frage sie ob sie weitere Informationen dazu haben möchte oder ich sie direkt zu Formula beraten soll",
+      "ich sage ihr, dass sie diese Entscheidung selbst bestimmt treffen darf, dies aber nur möglich ist wenn sie vollumfänglich informiert ist. Ich frage sie nach ihren Beweggründen. Ich kläre sie über die Risiken des Stillverzichts auf, die sonstigen Nachteile die das Nicht-Stillen beinhaltet und gebe ihr alle weiteren Informationen die sie benötigt für eine vollumfänglich informierte Entscheidung"
+    ],
+    "richtigeAntworten": [
+      "ich sage ihr, dass sie diese Entscheidung selbst bestimmt treffen darf, dies aber nur möglich ist wenn sie vollumfänglich informiert ist. Ich frage sie nach ihren Beweggründen. Ich kläre sie über die Risiken des Stillverzichts auf, die sonstigen Nachteile die das Nicht-Stillen beinhaltet und gebe ihr alle weiteren Informationen die sie benötigt für eine vollumfänglich informierte Entscheidung"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": " 7. Welche Produkte sind vom WHO Kodex betroffen, aber nicht laut der nationalen Umsetzung?",
+    "antworten": [
+      "Babytee",
+      "Babyflaschen",
+      "Säuglingsanfangsnahrung",
+      "Schnuller",
+      "Folgemilch, 2er, 3er Folgenahrung",
+      "Brei"
+    ],
+    "richtigeAntworten": [
+      "Babytee",
+      "Babyflaschen",
+      "Schnuller",
+      "Folgemilch, 2er, 3er Folgenahrung",
+      "Brei"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": " 8. Was möchte Professor McKenna mit dem Begriff Breastsleeping oder Brustschlafen ausdrücken bzw. was ist bei diesem Thema zu verstehen",
+    "antworten": [
+      "es gibt keinen Säuglingsschlaf, es gibt kein Stillen, es gibt nur das Schlafen an der Brust",
+      "der unmittelbare und anhaltende mütterliche Kontakt spielt beim optimalen Stillen eine große Rolle",
+      "Das fehlen eines ungehinderten Mutter-Kind-Kontaktes von Anfang an stellt kein wesentliches Hindernis dar",
+      "es ist kein Problem, wenn das Baby Nachts mal vom Vater gefüttert wird, damit die Mutter länger schlafen kann",
+      "1,2, und 3"
+    ],
+    "richtigeAntworten": [
+      "es gibt keinen Säuglingsschlaf, es gibt kein Stillen, es gibt nur das Schlafen an der Brust",
+      "der unmittelbare und anhaltende mütterliche Kontakt spielt beim optimalen Stillen eine große Rolle"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "9. Was ist falsch, hinsichtlich der Voraussetzungen für die Zertifizierung eines -babyfreundlichen Krankenhauses?",
+    "antworten": [
+      "die Richtlinien zu den 10 Schritten müssen lückenlos vorliegen",
+      "der WHO Kodex muss in der nationalen Form vollständig eingehalten werden",
+      "die Kliniken müssen mindestens 12 Monate Mitglied im Verein der Initiative sein",
+      "die Anforderungen des aktuellen Anforderungskataloges sind mindestens zu 80% zu erfüllen"
+    ],
+    "richtigeAntworten": [
+      "der WHO Kodex muss in der nationalen Form vollständig eingehalten werden",
+      "die Kliniken müssen mindestens 12 Monate Mitglied im Verein der Initiative sein"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "10. Wann wurde der WHO Kodex verabschiedet?",
+    "antworten": [
+      "1991",
+      "1974",
+      "2001",
+      "1981"
+    ],
+    "richtigeAntworten": [
+      "1981"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "11. Welche Aussage hinsichtlich der ersten 1000 Tage ist nicht richtig?",
+    "antworten": [
+      "Das Gehirn und der Körper funktionieren als miteinander verbundenes System",
+      "Das Gehirn und der Körper sind nicht miteinander verbunden",
+      "Ohne sichere Bindung legt das Gehirn des Säuglings neuronale Strukturen an, die rein auf das Überleben ausgerichtet sind",
+      "es ist nicht möglich, den Schaden der ersten 1000 Tage zu revidieren"
+    ],
+    "richtigeAntworten": [
+      "Das Gehirn und der Körper sind nicht miteinander verbunden",
+      "es ist nicht möglich, den Schaden der ersten 1000 Tage zu revidieren"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "12. Du bist selbstständige Still- und Laktationsberaterin und machst Marketing via Instagram. Welche der Aussagen sind zulässig?",
+    "antworten": [
+      "ich finde die Flaschen von XY so toll, ganz sicher auch ohne Saugverwirrung und poste wie ich einer Mutter zeige wie diese benutzt wird",
+      "ich nutze gerne Emojs und da es nicht wirkllch Emojis zum Stillen gibt nutze ich Fläschchen und Babys mit Schnuller eril das niedlicher aussieht",
+      "ich mache eine kostenlose Weiterbildung die Nestle angeboten hat und poste natürlich auch daraufhin ein Foto vom Zertifikat das ich bekommen habe, um auch noch zusätzlich dieses tolle Unternehmen was sogar kostenlose Fortbildungen anbietet zu unterstützen",
+      "ich erstelle ein Instagramvideo, auf dem ich zeige wie man abpumt. Man sieht die Marke der Pumpe zwar, aber die Marke ist kodexkonform",
+      "ich erstelle Beiträge in denen ich Studien verlinke, um Aufklärungsarbeit zu leisten"
+    ],
+    "richtigeAntworten": [
+      "ich erstelle ein Instagramvideo, auf dem ich zeige wie man abpumt. Man sieht die Marke der Pumpe zwar, aber die Marke ist kodexkonform",
+      "ich erstelle Beiträge in denen ich Studien verlinke, um Aufklärungsarbeit zu leisten"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "13. Du hast eine Beratung bei einer Familie und schaust dir die Schlafsituation an. Du siehst, dass die Mutter (die sich im Wochenbett befindet) aktuell auf dem Sofa schläft mit dem Baby, um den Vater nicht zu stören. Außerdem zeigt sie dir alle Kuscheltiere der Großeltern die sie jeden Abend liebevoll um den Kopf des Babys legt zum kuscheln und die Daunendecke die noch von Oma ist. Was sagst du dazu?",
+    "antworten": [
+      "ich erkläre ihr dazu gar nichts, dass muss sie selbst entscheiden und ich will nicht schuld sein an einem Streit",
+      "ich erkläre ihr vorsichtig, dass man mit kleinen Babys sehr vorsichtig sein muss und sie besser ein eigenes Bett für das Baby kaufen soll",
+      "ich erkläre ihr vorsichtig, dass man mit kleinen Babys sehr vorsichtig sein muss und erkläre ihr genau die Punkte die man beachten muss um sicher mit einem Baby zu schlafen",
+      "ich erkläre den Eltern, warum es so wichtig für ein Baby ist im Famileienbett zu schlafen und welche Vorteile es für die Mutter bietet. Dann erkläre ich die Grundlagen des sicheren Schlafens im Familienbett und benenne auch ganz deutlich alle gefährlichen Situationen, die mir aufgefallen sind. ich darf ebenfalls ganz klar benennen, dass eine Mutter im Wochenbett nicht dem Mann das Bett überlassen sollte, damit er besser schlafen kann."
+    ],
+    "richtigeAntworten": [
+      "ich erkläre den Eltern, warum es so wichtig für ein Baby ist im Famileienbett zu schlafen und welche Vorteile es für die Mutter bietet. Dann erkläre ich die Grundlagen des sicheren Schlafens im Familienbett und benenne auch ganz deutlich alle gefährlichen Situationen, die mir aufgefallen sind. ich darf ebenfalls ganz klar benennen, dass eine Mutter im Wochenbett nicht dem Mann das Bett überlassen sollte, damit er besser schlafen kann."
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "14. Wie viele mögliche Umsetzungspunkte des WHO-Kodexes erreicht Deutschland nach letztem messbaren Stand",
+    "antworten": [
+      "39 von 100",
+      "45 von 100",
+      "29 von 100"
+    ],
+    "richtigeAntworten": [
+      "39 von 100"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "15. Das eigene Bett im eigenen Zimmer ist zwar sicherer, aber trotzdem überwiegen die Vorteile des Familienbettes ",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "16. Wie viele Todefälle aufgrund von Brust- und Eierstockkrebs sowie Diabetes Typ 2 könnten ungefähr jährlich durch das Stillen verhindert werden?",
+    "antworten": [
+      "ca 66.000",
+      "ca 47.000",
+      "ca 98.000"
+    ],
+    "richtigeAntworten": [
+      "ca 98.000"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "17. Was ist die C-Position?",
+    "antworten": [
+      "eine Stillposition",
+      "eine Schlafposition",
+      "eine Auswertung von relevanten Positionskriterien des plötzlichen Kindstodes"
+    ],
+    "richtigeAntworten": [
+      "eine Schlafposition"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "18. Was bedeutet - gemeinsames Schlafen- laut vieler Studien, was widerum die Studienergebnisse verfälscht?",
+    "antworten": [
+      "auf einem Sofa",
+      "auf einem Sessel",
+      "im Familienbett mit der Hauptbezugsperson",
+      "in einem Beistellbett",
+      "im Familienbett mit einer fremden Person"
+    ],
+    "richtigeAntworten": [
+      "auf einem Sofa",
+      "auf einem Sessel",
+      "im Familienbett mit der Hauptbezugsperson",
+      "in einem Beistellbett",
+      "im Familienbett mit einer fremden Person"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "19. Was bedeutet -Fading-?",
+    "antworten": [
+      "es handelt sich um ein Schlaftraining",
+      "es ist kein Schlaftraining, sondern eine Möglichkeit für das Kind zu lernen sich selbst zu beruhigen",
+      "das Kind wird ins Bett gelegt und die Eltern verlassen den Raum",
+      "das Kind wird ins Bett gelegt und die Eltern setzen sich in einen Stuhl in der Nähe"
+    ],
+    "richtigeAntworten": [
+      "es handelt sich um ein Schlaftraining",
+      "das Kind wird ins Bett gelegt und die Eltern setzen sich in einen Stuhl in der Nähe"
+    ]
+  },
+  {
+    "thema": "7. Grundlagen des Stillens",
+    "frage": "20. Ab wann spricht man von \\",
+    "antworten": [
+      "8 Stunden",
+      "4 Stunden",
+      "5 Stunden",
+      "10 Stunden"
+    ],
+    "richtigeAntworten": [
+      "5 Stunden"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "1. Welche Auswirkungen haben Interventionen bei der Geburt auf den Stillstart?",
+    "antworten": [
+      "keine",
+      "geringe, teils positive Auswirkungen wie eine schnelle reichliche Milchbildung durch vermehrte Flüssigkeit und Oxitocingabe",
+      "teils starke Auswirkungen wie Probleme beim Anlegen und ein verspäteter Milcheinschuss, die den Stillstart erheblich erschweren und oft zum frühzeitigen Stillabbruch führen"
+    ],
+    "richtigeAntworten": [
+      "teils starke Auswirkungen wie Probleme beim Anlegen und ein verspäteter Milcheinschuss, die den Stillstart erheblich erschweren und oft zum frühzeitigen Stillabbruch führen"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "2. Oxitocinspitzen und der Anstieg von Prolaktin 20-30 Minuten nach der Geburt sind bei einem Kaiserschnitt...",
+    "antworten": [
+      "signifikant erhöht",
+      "seltener und niedriger bis gar nicht vorhanden"
+    ],
+    "richtigeAntworten": [
+      "seltener und niedriger bis gar nicht vorhanden"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "3. Wenn der Stillbeginn sich verzögert, erhöht sich die Sterblichkeitsrate um 33 %",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "4. Breastcrawl und Bonding...",
+    "antworten": [
+      "verbessern das optimale Anlegen, verbessern die Körpertemperatur und erhöhen das Risiko von Diabetes",
+      "verbessern das optimale Anlegen, verbessern die Körpertemperatur und stabilisieren den Glucosegehalt",
+      "ist unabdingbar für eine gute Stillbeziehung",
+      "sind relevant für eine gute Stillbeziehunng"
+    ],
+    "richtigeAntworten": [
+      "verbessern das optimale Anlegen, verbessern die Körpertemperatur und stabilisieren den Glucosegehalt"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "5. wie viele Stadien besitzt das Verhalten des Neugeborenen bei Haut- zu Hautkontakt nach Widström?",
+    "antworten": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "richtigeAntworten": [
+      "9"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "6. das Erfassen der Brust ist abhängig von",
+    "antworten": [
+      "Der Brustwarzenform, der Mundöffnung und der Stillposition",
+      "Der Brustform, der Mundöffnung und des Stresspegels des Kindes",
+      "Dem Stresspegel von Mutter und Kind und Positionierung des Kopfes / Körpers"
+    ],
+    "richtigeAntworten": [
+      "Dem Stresspegel von Mutter und Kind und Positionierung des Kopfes / Körpers"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "7. Sollten die Stillpositionen unbedingt verändert werden? Oder kann die Mutter bei einer ihr passenden Position bleiben?",
+    "antworten": [
+      "kann sie, wenn es keine Probleme gibt",
+      "Nein, da alle Areale entleert werden müssen"
+    ],
+    "richtigeAntworten": [
+      "kann sie, wenn es keine Probleme gibt"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "8. Was kann eine initiale Brustdrüsenschwellung verstärken?",
+    "antworten": [
+      "Häufiges Anlegen",
+      "Infusionen vor / während der Geburt",
+      "Häufiges Anlegen und Infusionen vor / während der Geburt"
+    ],
+    "richtigeAntworten": [
+      "Infusionen vor / während der Geburt"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "9. Wie lange kann nach der Geburt mit dem Zufüttern gewartet werden, wenn das Kind nicht an die Brust andockt?",
+    "antworten": [
+      "es muss sofort zugefüttert werden",
+      "Höchstens eine Stunde",
+      "Bis zu 4 Stunden",
+      "je nach Zustand des Kindes 12 bis 24 Stunden"
+    ],
+    "richtigeAntworten": [
+      "je nach Zustand des Kindes 12 bis 24 Stunden"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "10. Womit sollte ein Neugeborenes, wenn eine Zufütterung nötig wird, zugefüttert werden?",
+    "antworten": [
+      "mit gespendeter Muttermilch",
+      "Pre oder Glucoselösung",
+      "Kolostrum oder Glucoselösung",
+      "Kolostrum, gespendeter Muttermilch, physiologischer elektrolytlösung oder Glucoselösung"
+    ],
+    "richtigeAntworten": [
+      "Kolostrum, gespendeter Muttermilch, physiologischer elektrolytlösung oder Glucoselösung"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "11. Was sind Ursachen für Brustwarzen- / Vorhofschwellungen die ersten Tage nach der Geburt?",
+    "antworten": [
+      "Infusionen unter der Geburt",
+      "Infusionen kurz vor der Geburt",
+      "Infusionen nach der Geburt",
+      "bestimmte orale Medikamente"
+    ],
+    "richtigeAntworten": [
+      "Infusionen unter der Geburt",
+      "Infusionen kurz vor der Geburt"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "12. Eine Hyponatriämie der Mutter kann zu nötigen Interventionen bei der Geburt führen",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "13. Die Gabe von Narkotika unter der Geburt können folgende Probleme verursachen",
+    "antworten": [
+      "bessere APGAR-Werte",
+      "Hypotonie beim Baby",
+      "verminderter Saugreflex",
+      "verspätete initiale Brustdrüsenschwellung",
+      "Hypothermie bei Mutter und Baby"
+    ],
+    "richtigeAntworten": [
+      "Hypotonie beim Baby",
+      "verminderter Saugreflex",
+      "verspätete initiale Brustdrüsenschwellung"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "14. Wie kann ein Baby postnatal (bei Breastcrawl) die Brust finden?",
+    "antworten": [
+      "durch den Geruchsinn",
+      "durch aktives Anlegen",
+      "durch massieren der Hände",
+      "durch den direkten Hautkontakt"
+    ],
+    "richtigeAntworten": [
+      "durch den Geruchsinn",
+      "durch den direkten Hautkontakt"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "15. Hautkontakt fördert die Oxitocinausschüttung. Ein hohes Oxytocinlevel bewirkt",
+    "antworten": [
+      "Hypoglykämien",
+      "Tremor",
+      "Unruhe",
+      "einen besseren Milchfluss"
+    ],
+    "richtigeAntworten": [
+      "einen besseren Milchfluss"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "16. Skin - to - Skin-Kontakt kann Ängste und Depressionen von Vätern deutlich reduzieren und ihre Rollenerfüllung erleichtern.",
+    "antworten": [
+      "richtig",
+      "falsch",
+      "nein nur bei der Mutter",
+      "könnte unter bestimmten Umständen so sein"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "17. Was bedeutet -neonatal facial coding system- ?",
+    "antworten": [
+      "Assesmentinstrument zur Fremdeinschätzung von Stillraten bei Früh- und Reifgeborenen",
+      "Assesmentinstrument zur Fremdeinschätzung von Schmerz bei Früh- und Reifgeborenen",
+      "ist ein Tool dass den Latch beschreibt",
+      "ist ein Tool das die Vitalität des Früh - Neugeborenen misst"
+    ],
+    "richtigeAntworten": [
+      "Assesmentinstrument zur Fremdeinschätzung von Schmerz bei Früh- und Reifgeborenen"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "18. Die Känguru Methode dient unter anderem ...",
+    "antworten": [
+      "Als nicht pharmakologische Kurzintervention erwies sich als wirksames Analgetikum bei Frühgeborenen während eines Fersenstiches",
+      "als pharmakologische Kurzintervention erwies sich als wirksames Analgetikum bei Frühgeborenen während eines Fersenstiches",
+      "als nicht pharmakologische Kurzintervention bei der Intubation",
+      "als nicht pharmakologisches Hilfsmittel bei Hyperglykämie"
+    ],
+    "richtigeAntworten": [
+      "Als nicht pharmakologische Kurzintervention erwies sich als wirksames Analgetikum bei Frühgeborenen während eines Fersenstiches"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "19. Eine Mutter fragt dich ob sie etwas beim Anlegen optimieren kann, da sie Schmerzen hat. Sie legt ihr Baby mit dem Rücken auf das Stillkissen und der Arm des Babys liegt entlang des Bauches zwischen den beiden. Sie nimmt den Kopf und gibt die Brust in den Mund des Kindes",
+    "antworten": [
+      "es ist alles in Ordnung, das Kind trinkt gut und das Saugmuster sieht gut aus",
+      "Das Baby sollte mit dem Bauch zur Mutter gedreht liegen und am Besten durch ihren Arm gehalten werden",
+      "Der Arm des Babys sollte die Mutter / die Brust umarmen",
+      "Das Baby wird am Besten mit Druck zwischen den Schulterblättern an die Brust heran geholt, wenn der Mund weit offen ist"
+    ],
+    "richtigeAntworten": [
+      "Das Baby sollte mit dem Bauch zur Mutter gedreht liegen und am Besten durch ihren Arm gehalten werden",
+      "Der Arm des Babys sollte die Mutter / die Brust umarmen",
+      "Das Baby wird am Besten mit Druck zwischen den Schulterblättern an die Brust heran geholt, wenn der Mund weit offen ist"
+    ]
+  },
+  {
+    "thema": "8. Stillstart",
+    "frage": "20. Eine 16 jährige Mutter ruft dich 4 Tage nach der Geburt ihres ersten Kindes an. Sie fühlt sich etwas angeschlagen, hat 37,9 Temperatur und sehr harte Brüste. Welche weiteren Symptome können normal sein?",
+    "antworten": [
+      "starke Venenzeichnungen auf den Brüsten",
+      "beidseitig tiefrot- verfärbte Brustareale",
+      "Spannungsgefühl",
+      "juckende Areola",
+      "es dauert länger bis der Milchspendereflex einsetzt",
+      "wunde Brustwarzen, da das Erfassen der Brust erschwert ist"
+    ],
+    "richtigeAntworten": [
+      "starke Venenzeichnungen auf den Brüsten",
+      "Spannungsgefühl",
+      "es dauert länger bis der Milchspendereflex einsetzt",
+      "wunde Brustwarzen, da das Erfassen der Brust erschwert ist"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "1. Schmerzen zu Anfang sind normal",
+    "antworten": [
+      "Schmerzen die erste Woche sind normel",
+      "Schmerzen sind nie normal",
+      "Schmerzen beim Ansaugen sind nur die ersten Tage normal",
+      "Schmerzen die ersten 4 Wochen sind normal"
+    ],
+    "richtigeAntworten": [
+      "Schmerzen beim Ansaugen sind nur die ersten Tage normal"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "2. Häufigster Grund für wunde Brustwarzen / Schmerzen?",
+    "antworten": [
+      "suboptimales Anlegen",
+      "orale Ristriktionen",
+      "Verspannungen beim Kind",
+      "zuviel Milch"
+    ],
+    "richtigeAntworten": [
+      "suboptimales Anlegen"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "3. Stechender Schmerz und meist auch Verfärbung der Brustwarze bedeutet...",
+    "antworten": [
+      "Soor",
+      "Vasospasmus",
+      "Milchbläschen"
+    ],
+    "richtigeAntworten": [
+      "Vasospasmus"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "4. Soorbehandlung kann direkt beendet werden, wenn die Symptome weg sind",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "5. Der Übergang zwischen Milchstau und Mastitis ist fließend. Wann rätst du einer Mutter zum Gynäkologen zu gehen?",
+    "antworten": [
+      "Wenn der Algemeinzustand sich rapide verschlechtert und das Fieber über 24 Stunden anhält",
+      "Wenn die Brust gerötet ist",
+      "Wenn die Mutter fiebert und Gliederschmerzen hat",
+      "Wenn verhärtungen vorhanden sind"
+    ],
+    "richtigeAntworten": [
+      "Wenn der Algemeinzustand sich rapide verschlechtert und das Fieber über 24 Stunden anhält"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "6. Wenn ein Abszess entstanden ist, sollte die Mutter auf jeden Fall eine Stillpause für 12 Stunden einlegen",
+    "antworten": [
+      "richtig",
+      "falsch",
+      "nur bei grampositiven Bakterien"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "7. ein Abszess muss immer operativ eröffnet werden",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "8. Ein Stillstreik passiert meist mit ... Monaten",
+    "antworten": [
+      "3-4 Monaten",
+      "6 Monaten",
+      "7-8 Monaten",
+      "kann jederzeit auftreten"
+    ],
+    "richtigeAntworten": [
+      "7-8 Monaten"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "9. Die beste Lösung für einen Stillstreik ist..",
+    "antworten": [
+      "Das Kind -hungern- lassen, denn es wird irgendwann an die Brust gehen",
+      "immer wieder Anlegen und in der Zeit die Flasche geben",
+      "in Bewegung stillen, stillfreundlich zufüttern (wenn nötig) und abpumpen",
+      "in Bewegung stillen, stillfreundlich zufüttern mit Pre, weil Pumpen zusätzlichen Stress bedeuten würde"
+    ],
+    "richtigeAntworten": [
+      "in Bewegung stillen, stillfreundlich zufüttern (wenn nötig) und abpumpen"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "10. Die Dauer des Stillstreiks...",
+    "antworten": [
+      "ist maximal 1 Woche",
+      "ist maximal 2 Wochen",
+      "ist individuell",
+      "Meist nur ein paar Tage"
+    ],
+    "richtigeAntworten": [
+      "ist individuell"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "11. eine Mutter die bereits seit 9 Monaten schmerzfrei stillt, hat plötzlich Schmerzen beim Stillen. Ursachen könnten sein",
+    "antworten": [
+      "eine erneute Schwangerschaft",
+      "unsauberes / suboptimales Anlegen",
+      "Soor",
+      "Vasospasmus",
+      "Periode"
+    ],
+    "richtigeAntworten": [
+      "eine erneute Schwangerschaft",
+      "unsauberes / suboptimales Anlegen",
+      "Soor",
+      "Vasospasmus",
+      "Periode"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "12. In Thailand wurde eine Studie durchgeführt in der die Ursachen von wunden Brustwarzen erforscht wurde",
+    "antworten": [
+      "20% der Frauen hatten nach 1 Woche noch Schmerzen",
+      "23,2% hatten eine orale Restriktion",
+      "90% hatten suboptimal angelegt",
+      "4,4% haben zu viel gepflegt"
+    ],
+    "richtigeAntworten": [
+      "23,2% hatten eine orale Restriktion",
+      "4,4% haben zu viel gepflegt"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "13. Stadium 3 der wunden Mamille, definiert sich durch",
+    "antworten": [
+      "leicht rötlich verfärbte Hautareale",
+      "tiefe Rhagaden",
+      "Ulzerationen",
+      "Hämatom",
+      "Blasen"
+    ],
+    "richtigeAntworten": [
+      "tiefe Rhagaden",
+      "Ulzerationen",
+      "Blasen"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "14. Eine horizontale Schorfbildung, weist worauf hin?",
+    "antworten": [
+      "Anlegefehler bei der modifizierten Wiegehaltung",
+      "Anlegefehler bei der Footballhaltung",
+      "Anlegefehler im Liegen",
+      "starker Milchfluss"
+    ],
+    "richtigeAntworten": [
+      "Anlegefehler bei der Footballhaltung"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "15. In deiner Beratung hast du eine Wunde auf 12 Uhr die horizontal am Übergang Brustwarze / Areola entlang verläuft. Worauf achtest du als erstes? (Diese Wunde ist ganz typisch für ein bestimmtes verhalten)",
+    "antworten": [
+      "ist das Kind beim Stillen unruhig",
+      "wird beim Stillen an der Brust gezogen",
+      "Dockt die Mutter aktiv ab",
+      "wird die Brust sofort nach dem Abdocken, wieder -weggepackt"
+    ],
+    "richtigeAntworten": [
+      "wird die Brust sofort nach dem Abdocken, wieder -weggepackt"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "16. Die Benutzung von Heilwolle ist auf offenen, blutigen Wunden indiziert",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "17. Nach einem Milchstau darf die betroffene Stelle noch etwas schmerzhaft sein",
+    "antworten": [
+      "genau, mehrere Wochen lang",
+      "nein, der Schmerz sollte sofort weg sein",
+      "darf noch ein paar tage schmerzhaft sein",
+      "Die Schmerzen fühlen sich wie ein -blauer Fleck- an"
+    ],
+    "richtigeAntworten": [
+      "darf noch ein paar tage schmerzhaft sein",
+      "Die Schmerzen fühlen sich wie ein -blauer Fleck- an"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "18. Wann tritt eine Mastitis am häufigsten auf?",
+    "antworten": [
+      "1 Woche postnatal",
+      "1 Monat postnatal",
+      "2-3 Monate postnatal",
+      "2-3 Wochen postnatal"
+    ],
+    "richtigeAntworten": [
+      "2-3 Wochen postnatal"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "19. Nach einem Arztbesuch und der Diagnose Mastitis (inklusive Antibiotika), meldet sich eine Mutter bei dir und fragt wie sie nun am Betsen Abstillen und womit sie die Brust beim Pumpen am besten wärmen kann. Deine Reaktion beinhaltet",
+    "antworten": [
+      "Aufklärung für ein bedürfmissorientiertes Abstillen",
+      "erfragen des verordneten Medikaments",
+      "Abstillen ist kontraindiziert, erörtern wieso",
+      "Wärme sollte bei einer Mastits nicht verwendet werden",
+      "Mit einem lauwarmen Kirschkernkissen wärmen, Achtung Verbrennungsgefahr"
+    ],
+    "richtigeAntworten": [
+      "erfragen des verordneten Medikaments",
+      "Abstillen ist kontraindiziert, erörtern wieso",
+      "Wärme sollte bei einer Mastits nicht verwendet werden"
+    ]
+  },
+  {
+    "thema": "9. Stillprobleme",
+    "frage": "20. ein 38 Monate altes Kleinkind kuschelt vermehrt mit der Brust und küsst sie. Die Mutter fragt dich ob dies ein Stillstreik ist",
+    "antworten": [
+      "ja, das kann Stillstreik sein",
+      "Nein, das Kind stillt sich gerade selbst ab"
+    ],
+    "richtigeAntworten": [
+      "Nein, das Kind stillt sich gerade selbst ab"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "1. Welche Art Stilleinlagen ist eher medizinisches Hilfsmittel als zum Auffangen von Milch gedacht?",
+    "antworten": [
+      "Einwegstilleinlagen",
+      "Wolle / Seide Stilleinlagen",
+      "Bambus Stilleinlagen",
+      "Baumwolle Stilleinlagen"
+    ],
+    "richtigeAntworten": [
+      "Wolle / Seide Stilleinlagen"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "2. Wann empfiehlst du Medi Honey?",
+    "antworten": [
+      "bei Soor",
+      "bei Ekzemen",
+      "bei wunden, blutigen Brustwarzen",
+      "bei einem Milchbläschen"
+    ],
+    "richtigeAntworten": [
+      "bei wunden, blutigen Brustwarzen"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "3. Warum sind die meisten Brustwarzensalben nicht oder nur bedingt zur Mamillenpflege und Therapie geeignet?",
+    "antworten": [
+      "weil sie keine Wirkstoffe enthalten",
+      "sie schließen luftdicht und fördern Soor und Infektionen",
+      "sie enthalten allergieauslösende Wirkstoffe"
+    ],
+    "richtigeAntworten": [
+      "sie schließen luftdicht und fördern Soor und Infektionen",
+      "sie enthalten allergieauslösende Wirkstoffe"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "4. In welchen Fällen können Stillhütchen angewendet werden?",
+    "antworten": [
+      "Kind kann die Brust nicht greifen",
+      "Mutter hat wunde Brustwarzen",
+      "Mutter hat kleine oder flache Brustwarzen",
+      "Mutter hat echte Hohlwarzen, die mit Schmerzen beim Dehnen der Milchgäneg einhergehen"
+    ],
+    "richtigeAntworten": [
+      "Mutter hat echte Hohlwarzen, die mit Schmerzen beim Dehnen der Milchgäneg einhergehen"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "5. Kann natives Kokosöl bei candida albicans wirken?",
+    "antworten": [
+      "Nein, da die Haut nicht atmen kann. Die ölige Konsistenz kann zu einer Verschlimmerung der Symptome führen",
+      "ja, es kann oral eingenommen werden",
+      "ja , es kann mehrmals täglich auf die Brustwarze aufgetragen werden",
+      "nein, hier ist Fluconazol notwendig"
+    ],
+    "richtigeAntworten": [
+      "ja, es kann oral eingenommen werden",
+      "ja , es kann mehrmals täglich auf die Brustwarze aufgetragen werden"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "6. Welche Ausssagen bezüglich Epsomsalz sind nicht korrekt?",
+    "antworten": [
+      "Epsomsalz ist gleich Bittersalz",
+      "Epsomsalz besteht aus 100% hydralisiertem Magnesiumsulfat",
+      "Epsomsalz hilft bei der Behandlung von Milchstau",
+      "Epsomsalz hilft dabei Milchbläschen zu lösen",
+      "Epsomsalz hilft gegen wunde und trockene Brustwarzen",
+      "Epsomsalz kann grundsätzlich nicht überdosiert werden, man muss aber auf Unverträglichkeiten achten"
+    ],
+    "richtigeAntworten": [
+      "Epsomsalz hilft gegen wunde und trockene Brustwarzen",
+      "Epsomsalz kann grundsätzlich nicht überdosiert werden, man muss aber auf Unverträglichkeiten achten"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "7. Wie viel Kochsalz enthält eine Kochsalzlösung",
+    "antworten": [
+      "0,8%",
+      "0,9%",
+      "1,1%",
+      "Die korrekte Menge beträgt 4 Gramm Kochsalz auf einen Liter Wasser"
+    ],
+    "richtigeAntworten": [
+      "0,9%"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "8. Wiegeproben sind...",
+    "antworten": [
+      "sehr fehleranfällig und nicht aussagekräftig",
+      "über einen längeren Zeitraum durchaus sinnvoll",
+      "veraltet und findet kaum noch Anwendung"
+    ],
+    "richtigeAntworten": [
+      "sehr fehleranfällig und nicht aussagekräftig"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "9. Welches Hormon wird bei Schnullern ausgeschüttet?",
+    "antworten": [
+      "Cholezystokin",
+      "Oxytocin",
+      "Adrenalin"
+    ],
+    "richtigeAntworten": [
+      "Cholezystokin"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "10. Was verursacht das Hormon aus der letzten Frage?",
+    "antworten": [
+      "Stress",
+      "Sättigungsgefühl",
+      "Hunger"
+    ],
+    "richtigeAntworten": [
+      "Sättigungsgefühl"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "11. Was gilt es hinsichtlich Einwegstilleinlagen zu berücksichtigen?",
+    "antworten": [
+      "Das Innenvlies muss wasserundurchlässig sein, wohingegen das Aussenvlies auch wasserdurchlässig sein kann. Wichtig ist hier das Innenvlies",
+      "Die einmaligen Anschaffungskosten für hochwertige, waschbare Stilleinlagen übersteigen um ein vielfaches die Kosten von Einwegstilleinlagen",
+      "Der Umwelfaktor ist nicht signifikant höher bei Einwegstilleinlagen wie bei waschbaren Einlagen",
+      "Die Kosten sind auf die Nutzungsdauer gesehen bei waschbaren Stilleinlagen sehr viel geringer als bei Einwegstilleinlagen"
+    ],
+    "richtigeAntworten": [
+      "Die einmaligen Anschaffungskosten für hochwertige, waschbare Stilleinlagen übersteigen um ein vielfaches die Kosten von Einwegstilleinlagen",
+      "Die Kosten sind auf die Nutzungsdauer gesehen bei waschbaren Stilleinlagen sehr viel geringer als bei Einwegstilleinlagen"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "12. Welche Stilleinlagen sind bei infizierten Brustwarzen oft die bessere Wahl?",
+    "antworten": [
+      "waschbare Stilleinlagen",
+      "Einwegstilleinlagen",
+      "Silikon Stilleinlagen"
+    ],
+    "richtigeAntworten": [
+      "Einwegstilleinlagen"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "13. Welche Aussagen zu waschbaren Stilleinlagen sind korrekt?",
+    "antworten": [
+      "sie können lange getragen werden aufgrund des Materials und müssen nicht oft gewechselt werden",
+      "Es gibt leider sehr viele Hersteller, die nicht WHO-Kodex konform sind",
+      "waschbare Stilleinlagen können zum Aufsaugen von Muttermilch, allerdings nicht zur Brustwarzenpflege genutzt werden",
+      "Sie müssen bei mindestens 60 Grad gewaschen werden",
+      "Wenn die Mutter entzündete und schmerzende Brustwarzen hat, sollte die waschbare Stilleinlage nach der Nutzung in einem Topf kurz ausgekocht werden",
+      "Die meisten Hersteller sind WHO-Kodex konform"
+    ],
+    "richtigeAntworten": [
+      "Sie müssen bei mindestens 60 Grad gewaschen werden",
+      "Wenn die Mutter entzündete und schmerzende Brustwarzen hat, sollte die waschbare Stilleinlage nach der Nutzung in einem Topf kurz ausgekocht werden",
+      "Die meisten Hersteller sind WHO-Kodex konform"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "14. Welche Aussagen sind nicht korrekt?",
+    "antworten": [
+      "eine vorbeugende Pflege der Brustwarzen ist nur in den ersten Tagen nach der Geburt notwendig",
+      "es gibt keine Hilfsmittel, die tatsächlich einen Nutzen haben",
+      "viele Hilfsmittel sind nicht nur unnötig, sondern sogar eher hinderlich"
+    ],
+    "richtigeAntworten": [
+      "es gibt keine Hilfsmittel, die tatsächlich einen Nutzen haben"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "15. handelt es sich bei Lanolin um eine natürliche Brustwarzencreme?",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "nein"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "16. Muss Medihoney vor dem Stillen abgenommen werden?",
+    "antworten": [
+      "ja, vor Beikostreife",
+      "ja, immer weil die Gefahr von Säuglingsbotulismus besteht",
+      "nein, weil es sich um ein Medizinprodukt handelt"
+    ],
+    "richtigeAntworten": [
+      "ja, vor Beikostreife"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "17. Wie und wofür wird Retterspitztinktur verwendet?",
+    "antworten": [
+      "sie wirkt entzündungshemmend, kühlend, abschwellend, entspannend und schmerzlindernd",
+      "sie ist hochwirksam, jedoch kann es auch zu einigen Nebenwirkungen kommen. Daher ist hier eine konkrete Aufklärung der Still- und Laktationsberaterin sehr wichtig",
+      "Die Brustwarze muss nicht ausgelassen werden, allerdings muss die Tinktur von dieser vor dem Stillen abgewaschen werden",
+      "Die Anwendung erfolgt 1-2 Mal täglich für je bis zu 2 Stunden"
+    ],
+    "richtigeAntworten": [
+      "sie wirkt entzündungshemmend, kühlend, abschwellend, entspannend und schmerzlindernd",
+      "Die Anwendung erfolgt 1-2 Mal täglich für je bis zu 2 Stunden"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "18. Kann ein Brusternährungsset zur Saugverwirrung führen?",
+    "antworten": [
+      "ja",
+      "nein, es ist eine stillfreundliche Zufütterungsmethode"
+    ],
+    "richtigeAntworten": [
+      "ja"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "19. Welche Produkte können zu einer Saugverwirrung bzw Saugpräferenzverschiebung führen?",
+    "antworten": [
+      "Schnuller",
+      "Flasche",
+      "Finger der Eltern",
+      "Finger des Kindes",
+      "Magic Cup",
+      "Strohhalmflasche",
+      "Stillhütchen",
+      "Trinklernbecher",
+      "BES",
+      "Spielzeug",
+      "Zahnunngshilfen"
+    ],
+    "richtigeAntworten": [
+      "Schnuller",
+      "Flasche",
+      "Finger der Eltern",
+      "Magic Cup",
+      "Strohhalmflasche",
+      "Stillhütchen",
+      "Trinklernbecher",
+      "BES",
+      "Spielzeug",
+      "Zahnunngshilfen"
+    ]
+  },
+  {
+    "thema": "10. Hilfsmittel",
+    "frage": "20. Was ist hinsichtlich kolloidalem Silber zu beachten?",
+    "antworten": [
+      "kolloidales Silber ist ein starkes natürliches Antibiotikum, wirkt allerdings nicht gegen Viren und Parasiten",
+      "Die besten Ergebnisse in der Stillberatung kann man mit 25pm und 50ppm erreichen",
+      "dauerfeudhte Kompressen helfen besonders gut bei bakteriellen Infektionen",
+      "es muss kühl und dunkel sowie nicht in der Nähe von Elektrogeräten gelagert werden"
+    ],
+    "richtigeAntworten": [
+      "es muss kühl und dunkel sowie nicht in der Nähe von Elektrogeräten gelagert werden"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "1. Wie häufig sollte eine Frau ihre Brust abtasten?",
+    "antworten": [
+      "einmal im Jahr",
+      "Alle paar Monate",
+      "nie",
+      "nur bei Beschwerden",
+      "bitte niemals selbst abtasten, sondern immer durch Fachpersonal"
+    ],
+    "richtigeAntworten": [
+      "Alle paar Monate"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "2. Bei welchen Auffälligkeiten solltet ihr die Mutter zum Arzt verweisen?",
+    "antworten": [
+      "Soor",
+      "Ekzemen",
+      "Knoten, der sich über längere Zeit nicht verändert",
+      "bei lividen, dunkelroten Stellen und bei Einziehunngen der ;amille",
+      "bei entfärbten Stellen (wenn es plötzlich auftritt)"
+    ],
+    "richtigeAntworten": [
+      "Knoten, der sich über längere Zeit nicht verändert",
+      "bei lividen, dunkelroten Stellen und bei Einziehunngen der ;amille",
+      "bei entfärbten Stellen (wenn es plötzlich auftritt)"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "3. Wann darf reverse pressure softening (RPS) nicht angewendet werden?",
+    "antworten": [
+      "bei Ansammlung von Lymphflüssigkeit in der Brust",
+      "bei Milchstau",
+      "bei Anlegeproblemen",
+      "bei Schmerzen in der Brust",
+      "bei einer Mastitis",
+      "bei einem Abszess"
+    ],
+    "richtigeAntworten": [
+      "bei Milchstau",
+      "bei einer Mastitis",
+      "bei einem Abszess"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "4. Tief sitzende, ziehende Schmerzen in der Brust werden oft fehldiagnostiziert. Was steckt oft dahinter, wenn die Mutter auf keine Behandlung anspricht und was kann ihr schnell und unkompliziert helfen?",
+    "antworten": [
+      "Das MCS kann mit einer Dehnung des pectoralis major und pectoralis minor behandelt werden",
+      "Ein Milchstau kann durch abpumpen, kühlen und viel stillen behandelt werden",
+      "Ein Vsospasmus kann mit Medikamenten behandelt werden"
+    ],
+    "richtigeAntworten": [
+      "Das MCS kann mit einer Dehnung des pectoralis major und pectoralis minor behandelt werden"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "5. Eine Mastitis ist eine Indikation zum Abpumpen der Milch",
+    "antworten": [
+      "richtig",
+      "falsch",
+      "in bestimmten Fällen notwendig"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "6. Wann ist das Pumpen am effektivsten?",
+    "antworten": [
+      "Nach dem Stillen",
+      "vor dem Stillen",
+      "Nachts"
+    ],
+    "richtigeAntworten": [
+      "Nachts"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "7. Welche Variante des Abpumpens ist am effektivsten?",
+    "antworten": [
+      "beidseitig",
+      "einseitig",
+      "abwechselnd, mal beidseitig, mal einseitig"
+    ],
+    "richtigeAntworten": [
+      "beidseitig"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "8. Wann ist die Anwendung der Brustkompression sinnvoll?",
+    "antworten": [
+      "bei einer Saugschwäche",
+      "bei Milchstau",
+      "bei einem starken Milchfluss",
+      "bei oraler Restriktion"
+    ],
+    "richtigeAntworten": [
+      "bei einer Saugschwäche",
+      "bei Milchstau",
+      "bei oraler Restriktion"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "9. Es müssen immer Handschuhe bei einer oralen Untersuchung getragen werden",
+    "antworten": [
+      "richtig",
+      "nur unter bestimmten Umständen"
+    ],
+    "richtigeAntworten": [
+      "nur unter bestimmten Umständen"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "10. Wer darf eine orale Untersuchung durchführen?",
+    "antworten": [
+      "nur IBCLC s, medizinisches Personal / Still- und Laktationsberaterinnen mit eine medizinischem Grundberuf",
+      "alle die die entsprechende Kompetenz und Erlaubnis der Eltern haben",
+      "alle die eine entsprechende Kompetenz haben, eine Erlaubnis der Eltern ist nicht notwendig"
+    ],
+    "richtigeAntworten": [
+      "alle die die entsprechende Kompetenz und Erlaubnis der Eltern haben"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "11. warum kann es wichtig sein bereits in der Schwangerschaft die Bust zu untersuchen?",
+    "antworten": [
+      "um feststellen zu können, dass die Frau nicht genügend Brustdrüsengewebe hat und mit großer Wahrscheinlichkeit nicht stillen kann. So kann sie sich darauf vorbereiten.",
+      "um feststellen zu können, dass die Frau echte Hohlwarzen, tubuläre Brüste oder operierte Brüste hat, so das sie optimal auf alle Unsicherheiten vorbereitet werden kann",
+      "um feststellen zu können, dass die Frau Hohlwarzen oder Flachwarzen hat und die Büste vor der Geburt auf die Stillzeit vorbereitet werden könnn",
+      "um der Frau schon Sorgen und Zweifel bezüglich ihrer Brust- oder Brustwarzenform im Bezug auf das Stillen zu nehmen"
+    ],
+    "richtigeAntworten": [
+      "um feststellen zu können, dass die Frau echte Hohlwarzen, tubuläre Brüste oder operierte Brüste hat, so das sie optimal auf alle Unsicherheiten vorbereitet werden kann",
+      "um der Frau schon Sorgen und Zweifel bezüglich ihrer Brust- oder Brustwarzenform im Bezug auf das Stillen zu nehmen"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "12. Wie erfolgt die Einteilung der Brust zur präzisen Dokumentation?",
+    "antworten": [
+      "A,B,C,D",
+      "3,6,9,12",
+      "oberer äusserer Quadrant, oberer innerer Quadrant, unterer äusserer Quadrant, unterer innerer Quadrant",
+      "1,2,3,4"
+    ],
+    "richtigeAntworten": [
+      "A,B,C,D",
+      "3,6,9,12",
+      "oberer äusserer Quadrant, oberer innerer Quadrant, unterer äusserer Quadrant, unterer innerer Quadrant"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "13. Wann und wie sollte die Untersuchung der Brust stattfinden?",
+    "antworten": [
+      "es sollte vorab ein Gespräch stattfinden",
+      "Am Besten ist es, wenn die Untersuchung dierekt am Anfang der Beratung stattfindet und im Anschluss mit dessen Ergebnis alles weitere besprochen werden kann",
+      "es sollten Handschuhe getragen werden",
+      "die Hände sollten vorher desinfiziert werden",
+      "es muss das Einverständnis der Frau eineholt werden"
+    ],
+    "richtigeAntworten": [
+      "es sollte vorab ein Gespräch stattfinden",
+      "es muss das Einverständnis der Frau eineholt werden"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "14. Welche optische Brustwarzenform kann während der Untersuchung vorliegen?",
+    "antworten": [
+      "flach",
+      "eingezogen",
+      "rund",
+      "gequetscht",
+      "abgeflacht",
+      "groß",
+      "klein"
+    ],
+    "richtigeAntworten": [
+      "flach",
+      "eingezogen",
+      "rund",
+      "gequetscht",
+      "abgeflacht",
+      "groß",
+      "klein"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "15. Welche Aussage hinsichtlich der Untersuchung des Mundes ist nicht korrekt?",
+    "antworten": [
+      "Es ist wichtig, dass zuerst eine Munduntersuchung stattfindet, bevor man eine Stillmahlzeit beobachtet",
+      "es ist ausreichend eine Stillmahlzeit zu beobachten",
+      "es ist wichtig, dass das Einverständnis der Eltern und des Kindes zu dieser Untersuchung vorliegt",
+      "eine Still- und Laktationsberaterin DKSL darf diese Untersuchung nur alleine durchführen, wenn sie weitere medizinische Kompetenzen besitzt, die dies rechtfertigen",
+      "es ist wichtig Handschuhe zu tragen",
+      "es ist wichtig, wenn vorab Kontakt mit kranken Kindern bestand, Hände erst waschen, dann desinfizieren"
+    ],
+    "richtigeAntworten": [
+      "Es ist wichtig, dass zuerst eine Munduntersuchung stattfindet, bevor man eine Stillmahlzeit beobachtet",
+      "es ist ausreichend eine Stillmahlzeit zu beobachten",
+      "eine Still- und Laktationsberaterin DKSL darf diese Untersuchung nur alleine durchführen, wenn sie weitere medizinische Kompetenzen besitzt, die dies rechtfertigen",
+      "es ist wichtig Handschuhe zu tragen",
+      "es ist wichtig, wenn vorab Kontakt mit kranken Kindern bestand, Hände erst waschen, dann desinfizieren"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "16. Was sollte bei einer Munduntersuchung korrekterweise zu fühlen / sehen sein?",
+    "antworten": [
+      "110-140 Grad Mundöffnung",
+      "die Lippen sollten trocken, aber nicht ausgetrocknet sein",
+      "es darf lediglich eine sehr leichte Ausprägung eines Saugbläschens vorhanden sein",
+      "in Ruhelage bei geschlossenem Mund sollte die Zunge oben am Gaumen anliegen",
+      "die Bewegungen der Zunge sollten rhythmisch, wellenförmig und in kleinen Exkursionen möglich sein (beim Saugen)",
+      "die Zunge sollte sich mindestens bis zur Aussenkante Unterlippe rausstrecken lassen können",
+      "es ist physiologisch, wenn die Wangen Bewegung beim Stillen zeigen",
+      "Der Gaumen sollte fast geradesein, lediglich eine minimale Wölbung ist in Ordnung"
+    ],
+    "richtigeAntworten": [
+      "die Bewegungen der Zunge sollten rhythmisch, wellenförmig und in kleinen Exkursionen möglich sein (beim Saugen)",
+      "Der Gaumen sollte fast geradesein, lediglich eine minimale Wölbung ist in Ordnung"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "17. Du befindest dich in einer Beratungssituation und möchtest der Mutter eine Brustmassage empfehlen. Wie gehst du vor?",
+    "antworten": [
+      "ich biete ihr an, dass ich ihr die Massage 1x zeige und sie widerholt es während ich zuschaue und Verbesserungsvorschläge mache",
+      "ich biete ihr an, dass ich es ihr 1x an der Demobrust zeige und danach noch einmal an ihrer Brust",
+      "ich biete ihr an, dass ich es ihr 1x an der Demobrust zeige und sie es danach unter Anleitung und Korrektur selbst ausführt",
+      "eine direkte Hilfe an der Mutter sollte nur auf ausdrücklichen Wunsch erfolgen"
+    ],
+    "richtigeAntworten": [
+      "ich biete ihr an, dass ich es ihr 1x an der Demobrust zeige und sie es danach unter Anleitung und Korrektur selbst ausführt",
+      "eine direkte Hilfe an der Mutter sollte nur auf ausdrücklichen Wunsch erfolgen"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "18. Welches sind keine Indikationen zum Abpumpen?",
+    "antworten": [
+      "Stillstreik",
+      "Saugverwirrung",
+      "Stillhütchen",
+      "Relaktation",
+      "Frühgeborene",
+      "Steigerung der Milchmenge",
+      "Brustentleerung bei einem Milchstau"
+    ],
+    "richtigeAntworten": [
+      "Brustentleerung bei einem Milchstau"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "19. Bei welcher Technik kommt der C-Griff zum Einsatz?",
+    "antworten": [
+      "Oxitocinmassage",
+      "Brustkompression",
+      "Marmet-Methode",
+      "RPS",
+      "Brustmassage nach Plata Rueda"
+    ],
+    "richtigeAntworten": [
+      "Brustkompression",
+      "Marmet-Methode"
+    ]
+  },
+  {
+    "thema": "11. Massagen, Untersuchungen und Techniken",
+    "frage": "20. Welche Aussagen hinsichtlich der Handgewinnung sind korrekt?",
+    "antworten": [
+      "Die Handgewinnung ist nicht so effektiv wie eine Milchpumpe",
+      "Die Handgewinnung dauert länger als mit einer Milchpumpe",
+      "Es kann durch unsachgemässe Anwendung häufiger zu Verletzungen kommen",
+      "Die Technik der Handgewinnung muss korrekt vermittelt und angewendet werden, damit sie funktioniert"
+    ],
+    "richtigeAntworten": [
+      "Die Technik der Handgewinnung muss korrekt vermittelt und angewendet werden, damit sie funktioniert"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "1. Wieviele Unterteilungen gibt es für ein Frühgeborenes?",
+    "antworten": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "richtigeAntworten": [
+      "6"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "2. Was ist ein ELBW?",
+    "antworten": [
+      "Ein Frühgeborenes, dass zu klein für sein Alter ist",
+      "Ein Reifgeborenes Kind",
+      "Ein Frühgrborenes Kind mit einem Geburtsgewicht unter 1500g",
+      "Ein Frühgeborenes Kind mit einem Geburtsgewicht unter 1000g"
+    ],
+    "richtigeAntworten": [
+      "Ein Frühgeborenes Kind mit einem Geburtsgewicht unter 1000g"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "3. Welche Probleme können Frühgeborene haben?",
+    "antworten": [
+      "Respiratorische-, Gastrointestinale- und Neurologische",
+      "Respiratorische-, Gastrointestinale- und Neurologische, sowie ein schwaches Immunsystem",
+      "alle die ein gesunds Neugeborenes auch hat"
+    ],
+    "richtigeAntworten": [
+      "Respiratorische-, Gastrointestinale- und Neurologische, sowie ein schwaches Immunsystem"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "4. Ab wann ist der koordinierte Saug-Schluck-Mechanismus vorhanden?",
+    "antworten": [
+      "ab der 32 SSW",
+      "ab der 33 SSW",
+      "ab der 34 SSW",
+      "ab der 36 SSW"
+    ],
+    "richtigeAntworten": [
+      "ab der 32 SSW"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "5. Die Verdauungsenzyme nehmen ihre Arbeit ab der 20 SSW auf",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "6. Was ist die beste Prophylaxe für eine NEC?",
+    "antworten": [
+      "die Gabe von Muttermilch ab der 28 SSW",
+      "sofortige Gabe von Muttermilch der eigenen Mutter",
+      "die Gabe von angereicherter Muttermilch der eigenen Mutter",
+      "die Gabe von Elektrolyten die ersten Tage und dann Muttermilch der eigenen Mutter"
+    ],
+    "richtigeAntworten": [
+      "sofortige Gabe von Muttermilch der eigenen Mutter"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "7. Wie nennen sich die besonderen Methoden die die Entwicklung der Frühgeborenen unterstützen?",
+    "antworten": [
+      "NIDCAP",
+      "Skin-to-Skin Kontakt",
+      "NUDCAP",
+      "Body-on-Body"
+    ],
+    "richtigeAntworten": [
+      "NIDCAP",
+      "Skin-to-Skin Kontakt"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "8. Wie kann der Stillerfolg gefördert werden?",
+    "antworten": [
+      "frühzeitiges Anlegen, damit das Kind direkt effektiv saugt",
+      "vermehrter Hautkontakt und sondieren an der Brust",
+      "kennenlernen der Brust ohne direktes Saugen",
+      "Känguruen, pumpen und das Füttern mit dem Becher bis das Frühgeborene die 32 SSW erreicht hat"
+    ],
+    "richtigeAntworten": [
+      "vermehrter Hautkontakt und sondieren an der Brust",
+      "kennenlernen der Brust ohne direktes Saugen"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "9. Das Stillen an der Brust ist nur möglich, wenn das Kind keine Atemhilfe mehr hat",
+    "antworten": [
+      "richtig",
+      "falsch",
+      "ist möglich, wenn das Frühgeborene stabile Vitalzeichen hat",
+      "richtig, denn es ist für viele Frühgeborene lebensgefährlich"
+    ],
+    "richtigeAntworten": [
+      "falsch",
+      "ist möglich, wenn das Frühgeborene stabile Vitalzeichen hat"
+    ]
+  },
+  {
+    "thema": "12. Stillen von Frühgeborenen",
+    "frage": "10. Für die Milchbildung ist es unabdingbar anfangs zu Pumpen. Dies kann sehr anstrengend sein ür die Mutter. Was kann ihr helfen?",
+    "antworten": [
+      "Adäquate Pumptrichter und alle 2 Stunden abpumpen",
+      "ein angepasster Pump-Plan und das gemeinsame einstellen der Milchpumpe, inklusive Pumptrichter ausmessen",
+      "viel Hautkontakt und ein Video / Bild des Kindes",
+      "und direktes Pumpen nach dem Känguruen und ein Pump-BH"
+    ],
+    "richtigeAntworten": [
+      "ein angepasster Pump-Plan und das gemeinsame einstellen der Milchpumpe, inklusive Pumptrichter ausmessen",
+      "viel Hautkontakt und ein Video / Bild des Kindes",
+      "und direktes Pumpen nach dem Känguruen und ein Pump-BH"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "1. Was beinhaltet die Pharmakokinetik eines Medikamentes?",
+    "antworten": [
+      "Verteilung",
+      "Resorption",
+      "Ausscheidung",
+      "Verbreitung",
+      "Wirkungsweise und Wirkungsort",
+      "Nebenwirkungen"
+    ],
+    "richtigeAntworten": [
+      "Verteilung",
+      "Resorption",
+      "Ausscheidung",
+      "Verbreitung"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "2. In den ersten Tagen nach der Geburt gelangen Medikamente leichter/schneller in die Muttermilch",
+    "antworten": [
+      "richtig, aufgrund der höheren Permeabilität, Tight-Junktions sind noch nicht verbunden",
+      "richtig, es ist dennoch nicht schädlicher für den Säugling",
+      "nein, weil die Medikamente über den Blutkreislauf diffundieren"
+    ],
+    "richtigeAntworten": [
+      "richtig, aufgrund der höheren Permeabilität, Tight-Junktions sind noch nicht verbunden",
+      "richtig, es ist dennoch nicht schädlicher für den Säugling"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "3. Evidenzbasierte Plattformen zur Erörterung der Stillfreundlichkeit sind:",
+    "antworten": [
+      "Repotox",
+      "gelbe Liste",
+      "rote Liste",
+      "E-Lactania"
+    ],
+    "richtigeAntworten": [
+      "Repotox",
+      "E-Lactania"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "4. Eine Mutter mit einem 2 Jahre alten Kind fragt ob sie Novalgin für einen Tag nehmen darf. Was antwortest du ihr?",
+    "antworten": [
+      "es gibt Medikamente die stillfreundlicher sind, dennoch muss das Stillen nicht pausiert werden",
+      "es gibt Medikamente die stillfreundlicher sind, diese sollten eingenommen werden, ansonsten muss eine Stillpause eingelegt werden von 16 Stunden",
+      "in dieser Altersklasse ist die Einnahme von Novalgin auch 2-3 Tage akzeptabel, insofern keine Alternativen helfen",
+      "Novalgin sollte in der Stillzeit nicht eingenommen werden"
+    ],
+    "richtigeAntworten": [
+      "es gibt Medikamente die stillfreundlicher sind, dennoch muss das Stillen nicht pausiert werden",
+      "in dieser Altersklasse ist die Einnahme von Novalgin auch 2-3 Tage akzeptabel, insofern keine Alternativen helfen"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "5. Wenn eine Mutter gegen Penicillin allergisch ist und eine Mastitis antibiotisch behandelt werden soll, welches Antibiotika kann gegeben werden?",
+    "antworten": [
+      "Clindamycin",
+      "Azithromycin",
+      "Miconalzol",
+      "Metronidazol"
+    ],
+    "richtigeAntworten": [
+      "Clindamycin",
+      "Azithromycin"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "6. Eine besorgte Mutter ruft dich weinend an, dass sie Abstillen muss, weil eben ein MRT mit gadulinumhaltgem Kontrastmittel gemacht wurde. Was antwortest du ihr?",
+    "antworten": [
+      "Abstillen ist leider nötig, ich helfe ihnen dabei",
+      "Abstillen ist nicht nötig, aber eine Stillpause von 24 Stunden",
+      "es tut mir leid, das sie so verunsichert wurden. Sie können ihr Kind ganz normal weiter Stillen",
+      "Gadolinum wird kaum von ihrem Kind oral aufgenommen, und die Menge die bei ihrem Kind ankommt ist unter 0,0004%"
+    ],
+    "richtigeAntworten": [
+      "es tut mir leid, das sie so verunsichert wurden. Sie können ihr Kind ganz normal weiter Stillen",
+      "Gadolinum wird kaum von ihrem Kind oral aufgenommen, und die Menge die bei ihrem Kind ankommt ist unter 0,0004%"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "7. Nach einer Operation mi Antibiotika und Schmerzmittel, wurde einer Frau in deiner Beratung gesagt dass sie nicht Stillen darf. Wie gehst du vor - was machst du als allererstes",
+    "antworten": [
+      "Alternativen zum Stillen besprechen",
+      "Pumpvorgang erklären",
+      "Du fragst welche Medikamente gegeben wurden"
+    ],
+    "richtigeAntworten": [
+      "Du fragst welche Medikamente gegeben wurden"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "8. In einer Beratungssituation, erfährst du dass die Mutter eines 3 Monate alten Kindes Cabergolin bekommen hat. Nun hat sie Sorge, dass sie zu wenig Milch hat. Was wäre deine Antwort?",
+    "antworten": [
+      "Cabergolin, hat in dieser Phase der Milchbildung kaum einen Einfluss auf die Milchmenge. Gerne nehme ich mir Zeit um alles genau zu erörtern und sicherzugehen, dass ihr Kind weiterhin ausreichend Milch zu sich nimmt",
+      "Cabergolin, ist ein Abstillmedikament, dass die Milchmenge definitiv reduziert. Nun schauen wir gemeinsam was wir optimieren können",
+      "Cabergolin sollte wegen Thrombosegefahr nicht eingenommen werden"
+    ],
+    "richtigeAntworten": [
+      "Cabergolin, hat in dieser Phase der Milchbildung kaum einen Einfluss auf die Milchmenge. Gerne nehme ich mir Zeit um alles genau zu erörtern und sicherzugehen, dass ihr Kind weiterhin ausreichend Milch zu sich nimmt"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "9. Hyperlaktation kann für einige Frauen sehr problematisch sein. Welche Medikamente können ursächlich sein?",
+    "antworten": [
+      "Risperidon",
+      "Metoclopramid",
+      "Alpha-Methyldopa",
+      "Domperidon"
+    ],
+    "richtigeAntworten": [
+      "Risperidon",
+      "Metoclopramid",
+      "Alpha-Methyldopa",
+      "Domperidon"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "10. Die Mutter eines 3 Jahre alten Kindes, hat erfahren, dass sie Krebs hat. Nun muss sie Chemotherapie erhalten",
+    "antworten": [
+      "sie kann weiterhin Stillen",
+      "sie muss Abstillen"
+    ],
+    "richtigeAntworten": [
+      "sie muss Abstillen"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "11. Eine Mammographie kann bei stillenden Frauen nicht durchgeführt werden",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "12. Du bekommst eine Anfrage einer Mutter, die soeben eine PET-Untersuchung hatte, sie ist verunsichert ob sie normal weiter stillen darf",
+    "antworten": [
+      "Eine PET-Untersuchung wird mit FDG durchgeführt",
+      "Sie kann normal weiter stillen",
+      "Eine Stillpause muss eingehalten werden, die Dauer muss individuell berechnet werden",
+      "Abstillen ist indiziert"
+    ],
+    "richtigeAntworten": [
+      "Eine PET-Untersuchung wird mit FDG durchgeführt",
+      "Sie kann normal weiter stillen"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "13. Was ist der M/P Quotient ?",
+    "antworten": [
+      "Die Menge die ein Säugling pro Tag vom mütterlichen Medikament aufnimmt",
+      "Verhältnis der Konzentration einer Substanz in der Muttermilch zum mütterlichen Plasma"
+    ],
+    "richtigeAntworten": [
+      "Verhältnis der Konzentration einer Substanz in der Muttermilch zum mütterlichen Plasma"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "14. Ab welcher Höhe ist der M/P Quotient gefährlich für das Kind?",
+    "antworten": [
+      "< 1",
+      "> 1",
+      "< 10%",
+      "> 10%"
+    ],
+    "richtigeAntworten": [
+      "> 1"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "15. Medikamente die fettlöslich sind gehen eher in die Muttermilch über",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "16. Es liegen dir folgende Informationen bezüglich eines Medikamentes vor - Molekularmasse >400 - relative Dosis 0,5% - M/P Quotient < 0,5 - HWZ 2 Stunden - Proteinbindung >70% Kann die Mutter eines reifgeborenen Säuglings dieses Medikament einnehmen?",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "ja"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "17. Folgende Informationen liegen dir vor: Kann in der Stillzeit verordnet werden, wenn die Antihypertensiva der ersten Wahl nicht wirksam oder nicht indiziert sind. Sicherheitshalber ist bei jungen Säuglingen unter 2 Monaten auf Ödeme und den Gewichtsverlauf als Indikatoren für eine gestörte Nierenfunktion achten - Kann die Mutter eines reifgeborenen Säuglings ohne Nierenprobleme diese Medikament nehmen und weiterhin stillen?",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "ja"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "18. wenn ein Medikament bei Embryotox nachgeschlagen wird, findet sich im Ergebnis oben ein farblicher Kreis. Dieser dient ausschließlich der Beurteilung in der Schwangerschafft, nicht der Stillzeit. Für diese Informationen muss die Seite nach unten gescrollt werden",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "ja"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "19. Die Mutter eines 1 Woche alten Säuglings, muss einen Zahn in örtlicher Betäubung gezogen bekommen. Darf sie Stillen?",
+    "antworten": [
+      "ja, darf sie",
+      "ja, darf sie, aber erst nach 12 Stunden"
+    ],
+    "richtigeAntworten": [
+      "ja, darf sie"
+    ]
+  },
+  {
+    "thema": "13. Pharmakologie und Toxikologie",
+    "frage": "20. Umweltschadstoffe gehen nicht in die Muttermilch über",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "1. Profitieren die drogenabhängige Mutter und ihr Kind davon, dass das Kind gestillt wird oder überwiegen die Nachteile des Drogenkonsums?",
+    "antworten": [
+      "Die Drogenabhängigkeit liegt oftmals schon in der Schwangerschaft vor, so dass das Kind ein enorm erhöhtes Risiko für Gesundheits- und Entwicklungsprobleme hat. Meist profitieren also selbst diese Kinder erheblich vom Stillen und der Muttermilch",
+      "Man sollte bedenken, das alle Drogen in die Muttermilch übergehen und somit dem Kind erheblichen Schaden zufügen. Stillen ist hier kontraindiziert und die drogenabhängige Mutter sollte bereits im Krankenhaus beim Abstillen unterstützt werden",
+      "Drogenabhängige Mütter profitieren vor allem mental stark durch das Stillen. Sie werden gestärkt und dies kann den Drogenkonsum signifikant senken"
+    ],
+    "richtigeAntworten": [
+      "Die Drogenabhängigkeit liegt oftmals schon in der Schwangerschaft vor, so dass das Kind ein enorm erhöhtes Risiko für Gesundheits- und Entwicklungsprobleme hat. Meist profitieren also selbst diese Kinder erheblich vom Stillen und der Muttermilch",
+      "Drogenabhängige Mütter profitieren vor allem mental stark durch das Stillen. Sie werden gestärkt und dies kann den Drogenkonsum signifikant senken"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "2. Welche Aussagen Cannabis/THC betreffend sind nicht korrekt?",
+    "antworten": [
+      "Cannabis/THC darf in vielen Ländern legal konsumiert werden und steht auch in Deutschland kurz vor der Legalisierung",
+      "Cannabis/THC zählt eher zu den Gesellschaftsdrogen als zu illegalen Drogen, was es noch einmal wichtiger macht, das der Umgang beim Stillen damit für eine Still- und Laktationsberaterin bekannt ist",
+      "THC ist zu 99,9% proteingebunden, was also bedeutet, das der größte Teil in die Muttermilch übergeht",
+      "In Tierstudien wirkte Cannabis stark Prolaktin senkend, so dass schon ein geringer Konsum zu einer starken Minderung der Milchmenge führen kann",
+      "Am gefährlichsten ist die Möglichkeit des Passivrauchens für den Säugling, wenn er sich während des Konsums im gleichen Raum befindet!"
+    ],
+    "richtigeAntworten": [
+      "THC ist zu 99,9% proteingebunden, was also bedeutet, das der größte Teil in die Muttermilch übergeht",
+      "In Tierstudien wirkte Cannabis stark Prolaktin senkend, so dass schon ein geringer Konsum zu einer starken Minderung der Milchmenge führen kann"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "3. Was für eine Halbwertzeit hat Kokain?",
+    "antworten": [
+      "4 Stunden",
+      "2 Stunden",
+      "3 Stunden",
+      "30 Minuten"
+    ],
+    "richtigeAntworten": [
+      "2 Stunden"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "4. Wie lange kann Kokain im Blut nachgewiesen werden?",
+    "antworten": [
+      "bis zu 12 Stunden",
+      "bis zu 24 Stunden",
+      "bis zu 6 stunden",
+      "bis zu 48 Stunden"
+    ],
+    "richtigeAntworten": [
+      "bis zu 24 Stunden"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "5. Welche Aussagen hinsichtlich Kokain sind korrekt?",
+    "antworten": [
+      "Kokain geht in die Muttermilch über",
+      "Die Konzentration in der Muttermilch ist 2x höher als im Plasma der Mutter",
+      "Es wurden nur in 2 von 11 Muttermilchproben von Frauen, die vor der Geburt Kokain konsumiert haben, Kokain und Abbauprodukte gefunden",
+      "Kokain wird bis zu 24 Stunden nach dem Konsum der Mutter im Urin des Säuglings nachgewiesen"
+    ],
+    "richtigeAntworten": [
+      "Kokain geht in die Muttermilch über"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "6. Wie kann Heroin konsumiert werden?",
+    "antworten": [
+      "geschluckt",
+      "geraucht",
+      "geschnupft",
+      "gespritzt"
+    ],
+    "richtigeAntworten": [
+      "geraucht",
+      "geschnupft",
+      "gespritzt"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "7. Welche Aussichten bezüglich Heroin sind nicht korrekt?",
+    "antworten": [
+      "Heroin wird im Körper schnell in 6-Monoacetylmorphin umgewandelt, was etwa doppelt so stark wirkt wie Morphin",
+      "Heroin ist bis zu 24 Stunden im Blut nachweisbar",
+      "Heroin wirkt stark bewusstseinsverändernd",
+      "Eine Mutter kann sich nicht mehr um ihr Baby kümmern, während sie unter Heroineinfluss steht",
+      "Falls eine Mutter regelmäßig Heroin konsumiert ist es sehr fraglich, ob das Kind bei der Mutter bleiben kann. Sollte die Still- und Laktationsberaterin DKSL  davon Kenntnis erlangen ist es ihre Aufgabe, diese Informationen an die entsprechenden Stellen weiterzuleiten",
+      "Heroin führt auch beim Säugling der drogenabhängigen Mutter zu einer starken Abhängigkeit. Die Symptome des Säuglings lassen in der Regel nach, sobald das Kind von der heroinabhängigen Mutter gestillt wird"
+    ],
+    "richtigeAntworten": [
+      "Heroin wird im Körper schnell in 6-Monoacetylmorphin umgewandelt, was etwa doppelt so stark wirkt wie Morphin",
+      "Heroin ist bis zu 24 Stunden im Blut nachweisbar"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "8. Kann bei gelegentlichem Drogenkonsum der Mutter weiter gestillt werden?",
+    "antworten": [
+      "ja, wenn möglich nach einer Stillpause von 24 Stunden",
+      "ja, das Kind muss während dieser Zeit von einer engen nüchternen Bezugsperson betreut werden",
+      "nein, Stillen ist hier kontraindiziert. Dies ist einer der Fäle in denen Formula zu bevorzugen ist",
+      "von besonderer Bedeutung ist hier eine ausführliche und individuelle Anamnese, um Erkenntnisse nicht für hinsichtlich des Stillens zu erlangen, sondern auch auf eine mögliche Drogenabhängigkeit der Mutter und ihr Verhalten gegenüber ihres Babys"
+    ],
+    "richtigeAntworten": [
+      "ja, wenn möglich nach einer Stillpause von 24 Stunden",
+      "ja, das Kind muss während dieser Zeit von einer engen nüchternen Bezugsperson betreut werden",
+      "von besonderer Bedeutung ist hier eine ausführliche und individuelle Anamnese, um Erkenntnisse nicht für hinsichtlich des Stillens zu erlangen, sondern auch auf eine mögliche Drogenabhängigkeit der Mutter und ihr Verhalten gegenüber ihres Babys"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "9. Sollten Mütter, die sich in einer Methadontherapie befinden ihr Baby stillen?",
+    "antworten": [
+      "ja, weil die in der Muttermilch gefundenen Methadonkonzentrationen niedrig sind",
+      "nein, weil die in der Muttermilch gefundenen Methadonkonzentrationen hoch sind",
+      "Methadon wird in der AAP für Frauen, die ihr Baby stillen, empfohlen"
+    ],
+    "richtigeAntworten": [
+      "ja, weil die in der Muttermilch gefundenen Methadonkonzentrationen niedrig sind",
+      "Methadon wird in der AAP für Frauen, die ihr Baby stillen, empfohlen"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "10. Wie lange kann Methamphetamin /MDMA/MDA/Extasy im Blut nachgewiesen werden?",
+    "antworten": [
+      "8 Stunden",
+      "24 Stunden",
+      "48 Stunden"
+    ],
+    "richtigeAntworten": [
+      "24 Stunden"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "11. Welche Aussagen hinsichtlich Methamphetamin/MDMA/MDA/Extasy sind korrekt?",
+    "antworten": [
+      "Die Mutter kann unter Halluzinationen und paranoider Psychose leiden",
+      "Die Mutter ist nicht in der Lagen, sich um ihr Baby zu kümmern",
+      "Es besteht ein sehr hohes Risiko von Kindesvernachlässigung und - misshandlung",
+      "Amphetamin-ähnliche Substanzen gehen in relativ geringen Mengen in die Muttermilch über",
+      "Als mögliches Symptom beim Säugling gilt exzessives Schreien",
+      "Als mögliches Symptom des Kindes gelten starke Bauchkrämpfe"
+    ],
+    "richtigeAntworten": [
+      "Die Mutter kann unter Halluzinationen und paranoider Psychose leiden",
+      "Die Mutter ist nicht in der Lagen, sich um ihr Baby zu kümmern",
+      "Es besteht ein sehr hohes Risiko von Kindesvernachlässigung und - misshandlung",
+      "Als mögliches Symptom beim Säugling gilt exzessives Schreien"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "12. Welche Frauen sollten bei ihrer Entscheidung ihr Kind zu Stillen unterstützt werden?",
+    "antworten": [
+      "Frauen, die sich in einem Entzugsprogramm befanden und dieses weiterführen wollen, sobald sie sich mit dem Kind zurecht gefunden haben",
+      "Frauen, die bei der Geburt einen positiven Urintest hatten",
+      "Frauen, die Verhaltensmerkmale oder andere Indikatoren für aktiven Drogenabusus haben",
+      "Frauen, die bei der Geburt einen negativen Urintest hatten",
+      "Frauen, die nach der Geburt das Entzugsprogramm fortsetzen wollen"
+    ],
+    "richtigeAntworten": [
+      "Frauen, die bei der Geburt einen negativen Urintest hatten",
+      "Frauen, die nach der Geburt das Entzugsprogramm fortsetzen wollen"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "13. Die Vorteile des Familienbettes überwiegen bei dem gelegentlichen Knsum von Drogen",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "nein"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "14. Welche Aussagen hinsichtlich Gesellschaftsdrogen sind nicht korrekt?",
+    "antworten": [
+      "Gesellschaftsdrogen sind mit keiner signifikanten Suchtgefahr verbunden",
+      "Da sie relativ schwer zugänglich sind, stellen sie glücklicherweise kein großes Problem dar, aber Aufklärung ist wichtig",
+      "Wenn Mütter Gesellschaftsdrogen konsumieren möchten, ist es auch mal die Aufgabe einer Still- und Laktationsberaterin \\",
+      " zu sagen"
+    ],
+    "richtigeAntworten": [
+      "Gesellschaftsdrogen sind mit keiner signifikanten Suchtgefahr verbunden",
+      "Da sie relativ schwer zugänglich sind, stellen sie glücklicherweise kein großes Problem dar, aber Aufklärung ist wichtig",
+      "Wenn Mütter Gesellschaftsdrogen konsumieren möchten, ist es auch mal die Aufgabe einer Still- und Laktationsberaterin \\"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "15. Wie viele stillenden Frauen trinken in den westlichen Ländern ungefähr Alkohol?",
+    "antworten": [
+      "40%",
+      "50%",
+      "25%",
+      "60%"
+    ],
+    "richtigeAntworten": [
+      "50%"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "16. Wirkt Alkohol galaktogen?",
+    "antworten": [
+      "ja",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "nein"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "17. Welche Aussagen hinsichtlich Alkohol sind korrekt?",
+    "antworten": [
+      "Bei größeren Mengen Alkohol kann der MSR verzögert ausgelöst werden, da das Hormon Prolaktin nicht ausgeschüttet wird",
+      "Durch geringe Mengen Alkohol kann es zu einer erhöhten Zunahme des gestillten Säuglings kommen",
+      "Falls die Mutter größere Mengen Alkohol trinkt, sollte sie auf das Familienbett verzichten und eine andere enge Bezugsperson sollte sich um das Kind kümmern",
+      "Eine stillende Mutter hat bei gleicher Menge Alkohol und gleichem Gewicht in der Stillzeit weniger Promille als wenn sie nicht stillen würde",
+      "Wenn die Mutter 1 Promille Blutalkohol hat, trinkt das Kind ein Getränk mit einem Alkoholgehalt von 0,1%",
+      "Aufgrund der Unreife der Leber verstoffwechseln Säuglinge bis zu einem Alter von ca. 6 Monaten Alkohol etwa halb so schnell wie ein Erwachsener"
+    ],
+    "richtigeAntworten": [
+      "Falls die Mutter größere Mengen Alkohol trinkt, sollte sie auf das Familienbett verzichten und eine andere enge Bezugsperson sollte sich um das Kind kümmern",
+      "Eine stillende Mutter hat bei gleicher Menge Alkohol und gleichem Gewicht in der Stillzeit weniger Promille als wenn sie nicht stillen würde",
+      "Wenn die Mutter 1 Promille Blutalkohol hat, trinkt das Kind ein Getränk mit einem Alkoholgehalt von 0,1%"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "18. In einer Beratungssituation raucht eine Mutter 1 Schachtel Zigaretten pro Tag. Das neugeborene Baby schläft im Familienbett. Wie reagierst du?",
+    "antworten": [
+      "Du mischst dich nicht ein, weil es dich nichts angeht",
+      "Du klärst sie umfassend auf, nennst ihr alle Risiken, du darfst auch klar sagen wie gefährlich das gemeinsame Schlafen für ihr Baby ist, auch hinsichtlich des plötzlichen Kindstodes und lässt sie dann eine aufgeklärte, informierte Entscheidung treffen",
+      "Du drohst ihr, sie bei den Behörden zu melden, falls sie ihr Kind nicht sofort im eigenen Zimmer schlafen lässt"
+    ],
+    "richtigeAntworten": [
+      "Du klärst sie umfassend auf, nennst ihr alle Risiken, du darfst auch klar sagen wie gefährlich das gemeinsame Schlafen für ihr Baby ist, auch hinsichtlich des plötzlichen Kindstodes und lässt sie dann eine aufgeklärte, informierte Entscheidung treffen"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "19. Wie sind E-Zigaretten in der Stillzeit zu behandeln?",
+    "antworten": [
+      "Sie sind unproblematisch in der Stillzeit",
+      "Sie sind lediglich problematisch, wenn Tabak enthalten ist",
+      "Es gelten die gleichen Regeln wie für das Rauchen von normalen Zigaretten in der Stillzeit"
+    ],
+    "richtigeAntworten": [
+      "Es gelten die gleichen Regeln wie für das Rauchen von normalen Zigaretten in der Stillzeit"
+    ]
+  },
+  {
+    "thema": "14. Drogen",
+    "frage": "20. Wie viel mg Koffein kann als klinisch unbedeutend eingestuft werden?",
+    "antworten": [
+      "600mg",
+      "300mg",
+      "Für Neugeborene gelten besondere Regelungen, hierüber müssen Eltern explizit aufgeklärt werden. Ein kompletter Verzicht ist aber keinesfalls notwendig"
+    ],
+    "richtigeAntworten": [
+      "300mg",
+      "Für Neugeborene gelten besondere Regelungen, hierüber müssen Eltern explizit aufgeklärt werden. Ein kompletter Verzicht ist aber keinesfalls notwendig"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "1. Ab wann entwickelt sich das Mikrobiom eines Säuglings?",
+    "antworten": [
+      "Ab der Geburt",
+      "Nach der Geburt",
+      "Ab dem Beikoststart",
+      "Bereits in der Schwangerschaft"
+    ],
+    "richtigeAntworten": [
+      "Bereits in der Schwangerschaft"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "2. Welche Rolle spielt Antibiotika für das Mikrobiom",
+    "antworten": [
+      "Antibiotika hat keinen oder keinen signifikanten Einfluss auf das Mikobiom",
+      "Antibiotika tötet nicht nur schlechte sondern auch zahlreiche wichtige Bakterien des Mikrofilms ab",
+      "Antibiotika wirkt sich zwar negativ auf das Mikrobiom aus allerdings erholt sich das Mikrobiom innerhalb kürzester Zeit",
+      "Das Mikroboim kann sich ohne gezielten Aufbau von einer Antibiotikatherapie nicht vollständig erholen. Die negativen Auswirkungen können noch Jahre später sichtbar sein"
+    ],
+    "richtigeAntworten": [
+      "Antibiotika tötet nicht nur schlechte sondern auch zahlreiche wichtige Bakterien des Mikrofilms ab",
+      "Das Mikroboim kann sich ohne gezielten Aufbau von einer Antibiotikatherapie nicht vollständig erholen. Die negativen Auswirkungen können noch Jahre später sichtbar sein"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "3. Wann wird der Grundstein für das menschliche Mikrobiom gelegt?",
+    "antworten": [
+      "In der Schwangerschaft",
+      "In den ersten 6 Monaten",
+      "In den ersten 3 Jahren",
+      "entscheidend sind vor allem die ersten 3 Monate"
+    ],
+    "richtigeAntworten": [
+      "In den ersten 3 Jahren",
+      "entscheidend sind vor allem die ersten 3 Monate"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "4. Welche Bakterienarten dominieren bei einem per Kaiserschnitt geborenen Kind das Mikrobiom?",
+    "antworten": [
+      "Streptokokken",
+      "Enterobakterien",
+      "Bifidusbakterien",
+      "Clostridien",
+      "Staphylokokken",
+      "Laktobazillen"
+    ],
+    "richtigeAntworten": [
+      "Streptokokken",
+      "Enterobakterien",
+      "Clostridien",
+      "Staphylokokken"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "5. Für welche Krankheiten ist das Risiko aufgrund eines nicht optimalen Mikrobioms z.B durch einen Kaiserschnitt erhöht?",
+    "antworten": [
+      "Typ-1-Diabetes",
+      "Asthma",
+      "Syphillis",
+      "Zölliakie",
+      "psychische Erkrankungen wie Depressionen Schizophrenie",
+      "Clamydien",
+      "HIV"
+    ],
+    "richtigeAntworten": [
+      "Typ-1-Diabetes",
+      "Asthma",
+      "Zölliakie",
+      "psychische Erkrankungen wie Depressionen Schizophrenie"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "6. Wie kann das Mikrobiom eines per Kaiserschnitt geborenen Kindes geschützt werden?",
+    "antworten": [
+      "Kaiserschnitt erst nach Abgang der Fruchtblase durchführen",
+      "Dem Kind sollte ab der Geburt Darmbakterien gegeben werden",
+      "Vaginal-Seeding",
+      "sofortiger anhaltender Hautk-an-Haut-Kontakt",
+      "Ausschließliches Stillen für 6 Monate und darüber hinaus, bis das Kind sich selbst abstillt"
+    ],
+    "richtigeAntworten": [
+      "Kaiserschnitt erst nach Abgang der Fruchtblase durchführen",
+      "Vaginal-Seeding",
+      "sofortiger anhaltender Hautk-an-Haut-Kontakt",
+      "Ausschließliches Stillen für 6 Monate und darüber hinaus, bis das Kind sich selbst abstillt"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "7. Das Mikrobiom eines natürlich geborenen und ausschließlich gestillten Säuglings besteht hauptsächlich aus Mikroorganismen aus welchen Quellen?",
+    "antworten": [
+      "Aus dem Darm der Mutter, von de Haut der Mutter und aus Muttermilch",
+      "aus dem Darm der Mutter, der Vaginalflora der Mutter und der Muttermilch",
+      "Aus der Muttermilch",
+      "Aus den Mikroben durch transplazentare Übertragung, aus Darmbakterien der Mutter, der Vaginalflora der Mutter, aus Hautbakterien der Mutter und aus Muttermilch"
+    ],
+    "richtigeAntworten": [
+      "Aus den Mikroben durch transplazentare Übertragung, aus Darmbakterien der Mutter, der Vaginalflora der Mutter, aus Hautbakterien der Mutter und aus Muttermilch"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "8. Welche Aufgaben haben die Human Milk Oligosachariedes (HMOs) in der Muttermilch?",
+    "antworten": [
+      "Nahrung für gute Mikroorganismen des Mikrobioms",
+      "Kohlenhydratquelle für das Kind",
+      "Köderrezeptoren die das Anhaften von Krankheitserregern an der Darmschleimhaut verhindern",
+      "Als Sialinsäurequelle für das Kind"
+    ],
+    "richtigeAntworten": [
+      "Nahrung für gute Mikroorganismen des Mikrobioms",
+      "Köderrezeptoren die das Anhaften von Krankheitserregern an der Darmschleimhaut verhindern",
+      "Als Sialinsäurequelle für das Kind"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "9. Wie viele HMOs sind bekannt?",
+    "antworten": [
+      "20",
+      "2",
+      "200",
+      "2000"
+    ],
+    "richtigeAntworten": [
+      "200"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "10. Aus welchen Einfachzuckern bestehen alle bekannten HMOs?",
+    "antworten": [
+      "L-Fruktose",
+      "Laktose",
+      "N-Acetylglukosamin",
+      "D-Galaktose",
+      "Ribose",
+      "N-Acetylneuraminsäure",
+      "D-Glukose"
+    ],
+    "richtigeAntworten": [
+      "L-Fruktose",
+      "N-Acetylglukosamin",
+      "D-Galaktose",
+      "N-Acetylneuraminsäure",
+      "D-Glukose"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "11. In wiefern unterscheidet sich abgepumpte Muttermilch der eigenen Mutter von der Muttermilch die das Kind direkt beim Stillen bekommt?",
+    "antworten": [
+      "Sie weist nicht das gleiche mikrobielle Profil auf",
+      "Sie unterscheidet sich nicht"
+    ],
+    "richtigeAntworten": [
+      "Sie weist nicht das gleiche mikrobielle Profil auf"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "12. Welche Auswirkungen hat das Einfrieren auf die Muttermilch?",
+    "antworten": [
+      "Vitamine werden abgetötet",
+      "Immunzellen werden abgetötet",
+      "Einfrieren hat keinen negativen Einfluss",
+      "Stammzellen werden abgetötet",
+      "Mikroben werden abgetötet"
+    ],
+    "richtigeAntworten": [
+      "Immunzellen werden abgetötet",
+      "Stammzellen werden abgetötet",
+      "Mikroben werden abgetötet"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "13. Welche Vorteile gibt es bei einer privaten Muttermilchspende gegenüber der Muttermilch aus einer Muttermilchbank?",
+    "antworten": [
+      "Sie wird meist nicht eingefroren",
+      "Sie wird nicht pasteurisiert",
+      "Sie ist sicherer",
+      "Sie ist leichter zu bekommen",
+      "Sie enthält lebende Bestandteile"
+    ],
+    "richtigeAntworten": [
+      "Sie wird meist nicht eingefroren",
+      "Sie wird nicht pasteurisiert",
+      "Sie ist leichter zu bekommen",
+      "Sie enthält lebende Bestandteile"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "14. Was macht das Pasteurisieren mit der Muttermilch?",
+    "antworten": [
+      "Es stellt sicher, das die Milch sicher ist, auch für Frühchen und Neugeborene",
+      "Es inaktiviert und denaturiert alle lebenden Bestandteile der Muttermilch",
+      "Es inaktiviert und denaturiert bestimmte  lebende Bestandteile der Muttermilch",
+      "Es inaktiviert bestimmte Hormone, Vitamine und Wachstumsfaktoren",
+      "es sorgt dafür, dass Formulanahrung besser geeignet sind als pasteurisierte Muttermilch"
+    ],
+    "richtigeAntworten": [
+      "Es stellt sicher, das die Milch sicher ist, auch für Frühchen und Neugeborene",
+      "Es inaktiviert und denaturiert alle lebenden Bestandteile der Muttermilch",
+      "Es inaktiviert bestimmte Hormone, Vitamine und Wachstumsfaktoren"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "15. Welche Oligosacharide werden Formulamilch zugesetzt?",
+    "antworten": [
+      "GOS",
+      "FOS",
+      "HMO"
+    ],
+    "richtigeAntworten": [
+      "GOS",
+      "FOS"
+    ]
+  },
+  {
+    "thema": "15. Mikrobiom",
+    "frage": "16. Wie sieht das Mikrobiom eines Kindes aus, das nur gelegentlich mit Formulamilch zugefüttert und ansonsten gestillt wird",
+    "antworten": [
+      "Das Mikrobiom ähnelt dem eines vollgestillten Kindes",
+      "Das Mikrobiom ähnelt eher dem eines ausschließlich mit Formula ernährten Kindes",
+      "Das Mikrobiom gleicht zu gleichen Teilen dem eines vollgestillten und dem eines ausschließlich mit Formula gefütterten Kindes",
+      "Das Mikrobiom weißt keinen Unterschied zu dem eines vollgestillten Kindes auf"
+    ],
+    "richtigeAntworten": [
+      "Das Mikrobiom ähnelt eher dem eines ausschließlich mit Formula ernährten Kindes"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "1. Abendliches vermehrtes Stillen ist ein Anzeichen für zu wenig Milch",
+    "antworten": [
+      "falsch",
+      "richtig"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "2. Was ist die beste Reaktion, wenn die Mutter unsicher ist ob sie ausreichend Muttermilch hat?",
+    "antworten": [
+      "Sie abholen, erklären das sie definitiv ausreichend Muttermilch hat und zum weiterstillen ohne Zufüttern ermutigen",
+      "Sie abholen, das Stillen beobachten, eine Gewichtskurve anlegen und entsprechend das weitere Vorgehen besprechen, physiologisches Verhalten erläutern",
+      "Ihr vergewissern, dass sie sich keine Sorgen machen muss, da es normal ist das Babys häufig stillen wollen und ihre Milch immer ausreicht, solange sie nach Bedarf stillt"
+    ],
+    "richtigeAntworten": [
+      "Sie abholen, das Stillen beobachten, eine Gewichtskurve anlegen und entsprechend das weitere Vorgehen besprechen, physiologisches Verhalten erläutern"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "3. Was können kindliche Ursachen für zu wenig Milch sein?",
+    "antworten": [
+      "Schnuller",
+      "zu seltenes Anlegen",
+      "Flaches Andocken",
+      "tubuläre Brust",
+      "Mastitis",
+      "Choanalartesie"
+    ],
+    "richtigeAntworten": [
+      "Schnuller",
+      "Flaches Andocken",
+      "Choanalartesie"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "4. Was können mütterliche Ursachen für zu viel Milch sein?",
+    "antworten": [
+      "Häufiges Abpumpen",
+      "Schilddrüsenüberfunktion",
+      "Einnahme von Cabergolin",
+      "Häufige Handgewinnung"
+    ],
+    "richtigeAntworten": [
+      "Häufiges Abpumpen",
+      "Schilddrüsenüberfunktion",
+      "Häufige Handgewinnung"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "5. Eine Frau darf immer schwanger Stillen",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "6. eine Frau die Tandem Stillt medet sich bei dir zur Beratug. Das jüngere Kind (2,5 ochen alt) nimmt unzureichend zu. Geburtsgewicht 2800g aktuell 2730g. Spontane Geburt. Wie ist dein Vorgehen?",
+    "antworten": [
+      "Du beobachtest zunächst die Gewichtsentwicklung und änderts keinerlei Stillmethoden",
+      "Du machst eine ausführliche Stillanamnese und erstellst eine Gewichtskurve",
+      "Du schaust dir an wie das Kind stillt und optimierst mit Tipps, das das Baby effektiver andockt",
+      "D gibst den Tipp immer das jüngere Kind zuerst anzulegen",
+      "Du gibst den Hinweis dass wenn das Baby an der Brust schnell einschläft, das Kleinkind paralell stillen kann"
+    ],
+    "richtigeAntworten": [
+      "Du machst eine ausführliche Stillanamnese und erstellst eine Gewichtskurve",
+      "Du schaust dir an wie das Kind stillt und optimierst mit Tipps, das das Baby effektiver andockt",
+      "D gibst den Tipp immer das jüngere Kind zuerst anzulegen",
+      "Du gibst den Hinweis dass wenn das Baby an der Brust schnell einschläft, das Kleinkind paralell stillen kann"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "7 Eine 29-jährige Mutter fragt dich, ob sie die Kombi-Pille nehmen kann. Ihr Kind ist 6,5 Monate alt und sie Stillen ausschließlich",
+    "antworten": [
+      "nein, denn sie mindert die Milchmenge",
+      "ja, sie sollte jedoch darauf achten ob ihr Stillkind witerhin zufrieden wirkt und gut zunimmt. Desweiteren informierst du sie darüber dass eine östrogenfreie Pille stillfreundlicher wäre"
+    ],
+    "richtigeAntworten": [
+      "ja, sie sollte jedoch darauf achten ob ihr Stillkind witerhin zufrieden wirkt und gut zunimmt. Desweiteren informierst du sie darüber dass eine östrogenfreie Pille stillfreundlicher wäre"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "8. Katherine A. Dettwyler kommt unter Berücksichtigung unzähliger Studien- und Berechnungsergebnisse auf ein durchschnittliches natürliches und biologisches Abstillalter des Menschen von...",
+    "antworten": [
+      "2-4 Jahren",
+      "3,5-7 Jahren",
+      "2-7 Jahren"
+    ],
+    "richtigeAntworten": [
+      "3,5-7 Jahren"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "9. Welche Voraussetzungen sollten für die Beikostreife gegeben sein",
+    "antworten": [
+      "Beikostreifezeichen",
+      "zweite Darmreifungsstufe erreicht",
+      "mindestens 180 Tage bzw 6 Monate alt"
+    ],
+    "richtigeAntworten": [
+      "Beikostreifezeichen",
+      "zweite Darmreifungsstufe erreicht",
+      "mindestens 180 Tage bzw 6 Monate alt"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "10. Was ist BLISS?",
+    "antworten": [
+      "Eine Möglichkeit abzustillen",
+      "Eine Möglichkeit der Beikosteinführung",
+      "ein auf das Kind individuell angepasstes Beikostangebot, in dem speziell auch auf die ausreichende Nährstoffversorgung geachtet werden soll"
+    ],
+    "richtigeAntworten": [
+      "Eine Möglichkeit der Beikosteinführung",
+      "ein auf das Kind individuell angepasstes Beikostangebot, in dem speziell auch auf die ausreichende Nährstoffversorgung geachtet werden soll"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "11. Was bedeutet ab dem 5. Monat? (hinsichtlich der Formulierung bei der Beikost)",
+    "antworten": [
+      "5 Monate plus 1 Tag",
+      "4 Monate plus 1 Tag",
+      "im 6 Monat"
+    ],
+    "richtigeAntworten": [
+      "4 Monate plus 1 Tag"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "12. Wann \\",
+    "antworten": [
+      "bereits im Mutterleib",
+      "Nach der Geburt",
+      "Am Ende des 3 Trimesters"
+    ],
+    "richtigeAntworten": [
+      "bereits im Mutterleib"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "13. Ab welchem Monat muss eine Stillmahlzeit ersetzt werden?",
+    "antworten": [
+      "Ab dem 11 Lebensmonat",
+      "Ab dem p Lebensmonat",
+      "Im ersten Lebensjahr gar nicht. Das Kind ersetzt ab dem zweiten Lebensjahr selbst automatisch nach und nach die Stillmahlzeiten"
+    ],
+    "richtigeAntworten": [
+      "Im ersten Lebensjahr gar nicht. Das Kind ersetzt ab dem zweiten Lebensjahr selbst automatisch nach und nach die Stillmahlzeiten"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "14. Was passiert bei der zweiten Darmreifungsstufe?",
+    "antworten": [
+      "Die Darmwand ist dicker",
+      "Die Aufnahme von Vitaminen aus der Nahrung kann stattfinden",
+      "der Ph-Wert der Magensäure verändert sich",
+      "Die Bakterienanzahl ist verringert"
+    ],
+    "richtigeAntworten": [
+      "Die Aufnahme von Vitaminen aus der Nahrung kann stattfinden",
+      "der Ph-Wert der Magensäure verändert sich"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "15. Wie viele Phasen gibt es in der Säuglingsernährung?",
+    "antworten": [
+      "es gibt keine Phasen",
+      "es gibt 2 Phasen",
+      "es gibt 3 Phasen",
+      "es gibt unendlich viele Phasen"
+    ],
+    "richtigeAntworten": [
+      "es gibt 3 Phasen"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "16. Wenn eine Mutter stillend wieder arbeiten geht, stehen ihr bestimmte Rechte zu, die sie und ihr Kind schützen sollen",
+    "antworten": [
+      "Dies ist im Mutterschuzgesetz geregelt (MuSchG)",
+      "nur die Schweiz und Deutschland schützt stillende Mütter die wieder arbeiten gehen",
+      "Sie hat eine Nachweispflicht gegenüber dem Arbeitgeber, dass sie stillt",
+      "es gibt bestimmte Vorlagen für ein Stillatest"
+    ],
+    "richtigeAntworten": [
+      "Dies ist im Mutterschuzgesetz geregelt (MuSchG)",
+      "Sie hat eine Nachweispflicht gegenüber dem Arbeitgeber, dass sie stillt"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "17. wie lange gilt der Schutz für stillende Mütter und das Kind(Deutschland)?",
+    "antworten": [
+      "solange gestillt wird, maximal 12 Monate",
+      "solange gestillt wird",
+      "maximal 3 Jahre",
+      "solange wie 2x in 24 Stunden gestillt wird"
+    ],
+    "richtigeAntworten": [
+      "solange gestillt wird"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "18. Darf eine Mutter die in der Pflege arbeitet eine MRSA Patientin betreuen?",
+    "antworten": [
+      "ja, darf sie",
+      "nein, weil das Kind sich anstecken könnte"
+    ],
+    "richtigeAntworten": [
+      "ja, darf sie"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "19. Darf eine Notfallsanitäterin stillend 12 Stunden Dienste machen?",
+    "antworten": [
+      "ja, wenn sie im Anschluss ausreichend Ruhezeit hat",
+      "nein, sie darf keine 12 Stunden am Stück arbeiten",
+      "nein, sie darf keine 12 Stunden am Stück arbeiten und die Infektionsgefahr ist zu hoch, da sie im Notfallbereich arbeitet"
+    ],
+    "richtigeAntworten": [
+      "nein, sie darf keine 12 Stunden am Stück arbeiten und die Infektionsgefahr ist zu hoch, da sie im Notfallbereich arbeitet"
+    ]
+  },
+  {
+    "thema": "16. Stillen nach der ersten Lebenswoche",
+    "frage": "20. Kann eine stillende Mutter, die ihre Arbeit wieder aufgenommen hat, aufgrund der Gesetze nicht die gleichen Arbeitszeiten (Feiertage, Nachtarbeit etc) arbeiten, steht ihr ein finanzieller Ausgleich zu ",
+    "antworten": [
+      "das ist richtig, aber nur die ersten 12 Monate",
+      "das ist richtig, solange sie ausschließlich stillt",
+      "das ist richtig, dieser Ausgleich wird dem Arbeitgeber von den Krankenkassen erstattet",
+      "das ist falsch"
+    ],
+    "richtigeAntworten": [
+      "das ist richtig, dieser Ausgleich wird dem Arbeitgeber von den Krankenkassen erstattet"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "1. Was gehört zum vollständigen Sozio-Ökonomischen Modell?",
+    "antworten": [
+      "individuelle-, zwischenmenschliche-,religiöse- und politische Ebene",
+      "individuelle-,zwischenmenschliche-,kulturelle-,gesellschaftliche- und politische ebene",
+      "individuelle-,zwischenmenschliche-,gemeinschaftliche-,organisatorische- und politische Ebene"
+    ],
+    "richtigeAntworten": [
+      "individuelle-,zwischenmenschliche-,gemeinschaftliche-,organisatorische- und politische Ebene"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "2. In welchen Ländern ist stillen in der Öffentlichkeit noch nicht explizit per Gesetz geschützt?",
+    "antworten": [
+      "Österreich",
+      "Schweiz",
+      "Deutschland",
+      "Großbritannien"
+    ],
+    "richtigeAntworten": [
+      "Österreich",
+      "Schweiz",
+      "Deutschland"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "3. Welche Schritte sind bei Erstellung einer Richtlinie wichtig?",
+    "antworten": [
+      "bilden eines Expertengremiums",
+      "Überprüfung vergangener Forschungsergebnissen",
+      "Konsensbildung",
+      "Bewerung und Aktualisierung"
+    ],
+    "richtigeAntworten": [
+      "bilden eines Expertengremiums",
+      "Konsensbildung",
+      "Bewerung und Aktualisierung"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "4. Wozu dienen Expertenstandards?",
+    "antworten": [
+      "Um die Quantität der Beratung zu gewährleisten",
+      "Vereinheitlichung der Fähigkeiten der Stillberatung",
+      "Erhöhung der Qualität der Beratung"
+    ],
+    "richtigeAntworten": [
+      "Vereinheitlichung der Fähigkeiten der Stillberatung",
+      "Erhöhung der Qualität der Beratung"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "5. Wovon ist die kulturelle lebenslange Stillrate abhängig?",
+    "antworten": [
+      "Wohnumgebeung",
+      "Individualismus-Kollektivismus",
+      "Männlichkeit-Weiblichkeit",
+      "Religionszugehörigkeit",
+      "Machtdistanz"
+    ],
+    "richtigeAntworten": [
+      "Individualismus-Kollektivismus",
+      "Männlichkeit-Weiblichkeit",
+      "Machtdistanz"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "6. Welche internationalen und nationalen Organisationen unterstützen das Stillen?",
+    "antworten": [
+      "DGE (deutsche Gesellschaft für Ernährung)",
+      "World Alliance for Breastfeeding Action",
+      "Centers for Disease Control and Prevention",
+      "Bundesregierung"
+    ],
+    "richtigeAntworten": [
+      "World Alliance for Breastfeeding Action",
+      "Centers for Disease Control and Prevention"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "7. Nenne die Hauptgründe für das Ungleichgewicht bei der Interessenvertretung",
+    "antworten": [
+      "fehlendes Personal",
+      "Sprachbarrieren",
+      "finanzielle Mittel",
+      "Ungleichgewicht in der Zeit"
+    ],
+    "richtigeAntworten": [
+      "fehlendes Personal",
+      "finanzielle Mittel",
+      "Ungleichgewicht in der Zeit"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "8. was ist der Hauptgrund, weshalb es so viele Todesfälle in Notfallsituationen gibt?",
+    "antworten": [
+      "Atemwegserkrankungen",
+      "Sepsis",
+      "Unterernährung",
+      "Durchfallerkrankungen",
+      "Komplikationen bei der Geburt"
+    ],
+    "richtigeAntworten": [
+      "Durchfallerkrankungen"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "9. Die Betreuung rund um das Stillen baut auf folgende Säulen auf",
+    "antworten": [
+      "Planung",
+      "Beobachtung",
+      "Bewertung",
+      "Überwachung",
+      "Aufklärung",
+      "Koordination"
+    ],
+    "richtigeAntworten": [
+      "Planung",
+      "Bewertung",
+      "Überwachung",
+      "Koordination"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "10. Wie lautet Schritt 6 bei der BFHI?",
+    "antworten": [
+      "Respiratorische-, Gastrointestinale- und Neurologische",
+      "Respiratorische-, Gastrointestinale- und Neurologische, sowie ein schwaches Immunsystem",
+      "alle die ein gesundes Neugeborenes auch hat"
+    ],
+    "richtigeAntworten": [
+      "Respiratorische-, Gastrointestinale- und Neurologische, sowie ein schwaches Immunsystem"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "11. Wieso ist das nicht Stillen ein Public Health Problem?",
+    "antworten": [
+      "Die Morbidität steigt",
+      "Die Mortalität steigt",
+      "Nachteile für die Wirtschaft",
+      "Es hat messbare Nachteile für das Kind und die Mutter, sowie der sozialen Kultur"
+    ],
+    "richtigeAntworten": [
+      "Die Mortalität steigt",
+      "Nachteile für die Wirtschaft",
+      "Es hat messbare Nachteile für das Kind und die Mutter, sowie der sozialen Kultur"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "12. Wie ist das Stillen in einem Restaurant rechtlich für Mutter und Kind abgesichert?",
+    "antworten": [
+      "Das Hausrecht des Wirtes ist höher",
+      "Hat die Mutter noch nicht bestellt, darf sie des Restaurantes verwiesen werden",
+      "Die Mutter darf nicht aus dem Restaurant verwiesen werden, wenn sie ihr Kind stillt"
+    ],
+    "richtigeAntworten": [
+      "Das Hausrecht des Wirtes ist höher",
+      "Hat die Mutter noch nicht bestellt, darf sie des Restaurantes verwiesen werden"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "13. In welchen Ländern ist das Stillen in der Öffentlichkeit explizit gesetzlich geschützt?",
+    "antworten": [
+      "Thailand",
+      "Australien",
+      "England",
+      "Türkei",
+      "Dubai"
+    ],
+    "richtigeAntworten": [
+      "Thailand",
+      "Australien",
+      "England",
+      "Türkei"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "14. Was sind die Aufgaben einer Stillberaterin?",
+    "antworten": [
+      "Das Stillen zu fördern",
+      "Prüfungen der Mitarbeiter durchzuführen",
+      "Fortbildungen im Bereich des Stillens anzubieten",
+      "Erstellung von Beikostrichtlinien"
+    ],
+    "richtigeAntworten": [
+      "Das Stillen zu fördern",
+      "Fortbildungen im Bereich des Stillens anzubieten"
+    ]
+  },
+  {
+    "thema": "17. Public Health und Gesundheitswesen",
+    "frage": "15. In welchen Jahren gab es den Höhepunkt von Flaschen ernährten Kindern?",
+    "antworten": [
+      "1966",
+      "1969",
+      "1970",
+      "1978"
+    ],
+    "richtigeAntworten": [
+      "1966",
+      "1970"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "1. Welche zählen zu den wichtigsten Kommunikationsmodellen?",
+    "antworten": [
+      "Das Sender-Empfänger Modell",
+      "Das 4-Ohren Modell",
+      "Das Eisbergmodell",
+      "Das Transaktionsmodell",
+      "Die 5 Axiome der Kommunikation",
+      "Das 4-Augen Modell"
+    ],
+    "richtigeAntworten": [
+      "Das Sender-Empfänger Modell",
+      "Das 4-Ohren Modell",
+      "Das Eisbergmodell",
+      "Die 5 Axiome der Kommunikation"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "2. Welche Kommunikationseben betrifft der Satz \\",
+    "antworten": [
+      "Beziehungsebene",
+      "Sachebene",
+      "Selbstkundgabe",
+      "Apellebene"
+    ],
+    "richtigeAntworten": [
+      "Selbstkundgabe"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "3. Welche Arten von Fragestellungen sind geeignet für eine Anamnese?",
+    "antworten": [
+      "Eröffnungsfrage",
+      "Sondierungsfrage",
+      "Suggestivfrage",
+      "gezielte Fragen",
+      "Auswahlfragen"
+    ],
+    "richtigeAntworten": [
+      "Eröffnungsfrage",
+      "Sondierungsfrage",
+      "gezielte Fragen",
+      "Auswahlfragen"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "4. Wieso ist die Dokumentation des Stillverlaufs wichtig?",
+    "antworten": [
+      "Dient der schriftlichen Darstellung von Informationen",
+      "Dient der schriftlichen Darstellung von Beobachtungen",
+      "Dient der schriftlichen Darstellung von Diagnosen",
+      "Dient de schriftlichen Darstellung des Nachweises über die geleistete Beratung"
+    ],
+    "richtigeAntworten": [
+      "Dient der schriftlichen Darstellung von Informationen",
+      "Dient der schriftlichen Darstellung von Beobachtungen",
+      "Dient de schriftlichen Darstellung des Nachweises über die geleistete Beratung"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "5. Der Aufbau eines Pflege- Therapieplanes kann individuell sein",
+    "antworten": [
+      "Das ist richtig, jedoch ist es für Kollegen und medizinisches Personal einfacher zu lesen, wenn der Aufbau eine bestimmte Form hat",
+      "das ist richtig, jedoch muss es einen einheitlichen Aufbau haben für Kollegen und medizinisches Personal",
+      "Das ist richtig, er kann egal wie aufgebaut sein"
+    ],
+    "richtigeAntworten": [
+      "Das ist richtig, jedoch ist es für Kollegen und medizinisches Personal einfacher zu lesen, wenn der Aufbau eine bestimmte Form hat"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "6. Du darfst die betreuten Familien \\",
+    "antworten": [
+      "ja",
+      "nein",
+      "Die professionelle Distanz fehlt, wenn -gedutzt- wird"
+    ],
+    "richtigeAntworten": [
+      "ja"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "7. Die Schweigepflicht ist ganz besonders wichtig, wo ist sie im Gesetz verankert?",
+    "antworten": [
+      "§204 im StGB",
+      "§203 im StVO",
+      "§204 im BGB",
+      "§203 im StGB",
+      "§203 im BGB"
+    ],
+    "richtigeAntworten": [
+      "§203 im StGB"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "8. Die Schweigepflicht fällt wann weg?",
+    "antworten": [
+      "Kindeswohlgefährdung",
+      "Suizidgefahr",
+      "Verweigerung der Zufütterung bei 8% Abnahme nach Geburt",
+      "Bei Einnahme von Antidepressiva (Monotherapie"
+    ],
+    "richtigeAntworten": [
+      "Kindeswohlgefährdung",
+      "Suizidgefahr"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "9. Onlineberatung gibt es erst seit Corona",
+    "antworten": [
+      "richtig",
+      "falsch"
+    ],
+    "richtigeAntworten": [
+      "falsch"
+    ]
+  },
+  {
+    "thema": "18. Bildung, Kommunikation und Dokumentation",
+    "frage": "10. Eine Stillberatung online kann genauso effiizient sein wie eine Beratung vor Ort",
+    "antworten": [
+      "richtig",
+      "falsch",
+      "Nur bei Beratungen, bei denen keine orale Untersuchung oder Abtasten der Brust vor Ort notwendig ist"
+    ],
+    "richtigeAntworten": [
+      "richtig"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "1. Was ist der Unterschied zwischen quantitativer und qualitativer Forschung?",
+    "antworten": [
+      "Quantitative Forschung basiert auf Zahlen, der Erhebung numerischer Daten und der Analyse von Prozessen",
+      "Quantitative Forschung basiert auf Zahlen, der Erhebung numerischer Daten und der Analyse von numerischen Daten",
+      "bei der quantitativen Forschung wird der numerische Aspekt bearbeitet, bei der qualitativen der Prozess des Sammelns, die Analyse und die Interpretation nicht numerischer Inhalte"
+    ],
+    "richtigeAntworten": [
+      "bei der quantitativen Forschung wird der numerische Aspekt bearbeitet, bei der qualitativen der Prozess des Sammelns, die Analyse und die Interpretation nicht numerischer Inhalte"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "2. Eine gewisse Unsicherheit besteht wie genau die Schätzungen sind",
+    "antworten": [
+      "Diese Aussage ist falsch",
+      "Diese Aussage ist richtig"
+    ],
+    "richtigeAntworten": [
+      "Diese Aussage ist richtig"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "3. Kann man eine Stichprobenstatistik berechnen?",
+    "antworten": [
+      "ja",
+      "Nur unter bestimmten Bedingungen",
+      "nein"
+    ],
+    "richtigeAntworten": [
+      "ja"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "4. Berechne den Mittelwert aus: 3,1,4,5,8,8,2,4",
+    "antworten": [
+      "8",
+      "2",
+      "4",
+      "5,5",
+      "3,5",
+      "6,5",
+      "10",
+      "5"
+    ],
+    "richtigeAntworten": [
+      "5,5"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "5. Bestimme den Median aus: 2,10,3,6,5,8",
+    "antworten": [
+      "5,6",
+      "2",
+      "5,5",
+      "10",
+      "6"
+    ],
+    "richtigeAntworten": [
+      "5,5"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "6. Bestimme den Modalwert aus: 4,7,2,12,1,2,1,12,23,2",
+    "antworten": [
+      "1",
+      "2",
+      "4,36",
+      "12"
+    ],
+    "richtigeAntworten": [
+      "2"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "7. Bestimme das Minimum aus: 4,9,3,15,200,2,0.5",
+    "antworten": [
+      "0,5",
+      "200",
+      "15"
+    ],
+    "richtigeAntworten": [
+      "0,5"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "8. Ermittel die Spannweite aus: 3,1,8,6,2",
+    "antworten": [
+      "7",
+      "2,5",
+      "20",
+      "10"
+    ],
+    "richtigeAntworten": [
+      "7"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "9. Nenne den Prozentsatz von: 63",
+    "antworten": [
+      "6,3 %",
+      "63 %",
+      "0,0063 %"
+    ],
+    "richtigeAntworten": [
+      "63 %"
+    ]
+  },
+  {
+    "thema": "19. Einführung in die Forschung",
+    "frage": "10. Was ist der Goldstandard in der medizinischen Forschung?",
+    "antworten": [
+      "eine Meta-Analyse",
+      "Eine Kohortenstudie",
+      "eine randomisierte kontrollierte Studie",
+      "Case-Control Studie"
+    ],
+    "richtigeAntworten": [
+      "eine randomisierte kontrollierte Studie"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "1. Wie unterscheiden sich ein Frenulum linguae und ein Frenulum linguae breve?",
+    "antworten": [
+      "Gar nicht, beides ist eine korrekte Bezeichnung für eine Ankyloglossie",
+      "Gar nicht ,beides ist eine korrekte Bezeichnung für ein physiologisches Zungenband",
+      "Das Frenulum linguae ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae breve ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt",
+      "Das Frenulum linguae ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae breve ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt",
+      "Das Frenulum linguae breve ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt"
+    ],
+    "richtigeAntworten": [
+      "Das Frenulum linguae ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae breve ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "2. Aus welchem Material bestehen verkürzte Zungenbändchen hauptsächlich?",
+    "antworten": [
+      "Schleimhautzellen",
+      "Faszien, Schleimhaut, Typ-1 Kollagen und Muskeln",
+      "Faszien, Schleimhaut, Typ-2 Kollagen und Muskeln",
+      "Typ-1 Kollagen"
+    ],
+    "richtigeAntworten": [
+      "Typ-1 Kollagen"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "3. Wann entwickeln sich in der Schwangerschaft Zunge und Mundboden?",
+    "antworten": [
+      "In der 4 und 8 SSW",
+      "In der 12 SSW",
+      "In der 14 und 16 SSW",
+      "In der 4 bis 8 SSW"
+    ],
+    "richtigeAntworten": [
+      "In der 4 und 8 SSW"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "4. Welche Aussagen sind nicht korrekt?",
+    "antworten": [
+      "Die Ursachen für ein verkürztes Zungenband sind bis heute nicht abschließend bekannt",
+      "Eine Ankyloglossie ist vererbbar",
+      "Es sind mehr Mädchen als Jungen betroffen",
+      "Meist reicht es, wenn der anteriore Teil getrennt wird"
+    ],
+    "richtigeAntworten": [
+      "Es sind mehr Mädchen als Jungen betroffen",
+      "Meist reicht es, wenn der anteriore Teil getrennt wird"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "5. Was können außer einem restriktiven Zungenband noch Gründe für eine eingeschränkte Zungenfunktion sein?",
+    "antworten": [
+      "Geburtstrauma",
+      "Entwicklungsprobleme",
+      "Saugverwirrung"
+    ],
+    "richtigeAntworten": [
+      "Geburtstrauma",
+      "Entwicklungsprobleme"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "6. Wofür ist eine korrekte Zungenfunktion wichtig?",
+    "antworten": [
+      "Richtige Ausformung des Gaumens, Kiefers und der Atemwege",
+      "Gute Nasenatmung",
+      "Sprachentwicklung",
+      "Entspannte Nacken- und Halsmuskulatur",
+      "Entspanntes Kind"
+    ],
+    "richtigeAntworten": [
+      "Richtige Ausformung des Gaumens, Kiefers und der Atemwege",
+      "Gute Nasenatmung",
+      "Sprachentwicklung",
+      "Entspannte Nacken- und Halsmuskulatur",
+      "Entspanntes Kind"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "7. warum sind die Klassifizierungssysteme wie die Coryllos Skala und die Kotlow Skala nicht zur Diagnose oraler Restriktionen geeignet?",
+    "antworten": [
+      "Sie bewerten nicht die Funktion und bestimmte Arten restriktiver Bänder werden gar nicht geprüft",
+      "Sie beurteilen nur, wo das Zungenband im Mund ansetzt",
+      "Sie beurteilen die Funktion, berücksichtigen aber keine Differentialdiagnosen"
+    ],
+    "richtigeAntworten": [
+      "Sie bewerten nicht die Funktion und bestimmte Arten restriktiver Bänder werden gar nicht geprüft",
+      "Sie beurteilen nur, wo das Zungenband im Mund ansetzt"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "8. Welches Untersuchungsinstrument ist das einzige, das auch ein restriktives Lippenband mit einbezieht?",
+    "antworten": [
+      "Haselbaker Assesment Tool for Lingual Frenulum Function (HATLFF)",
+      "Frenotomy Decision Tool for Breastfeeding Dyads (DOBRICH)",
+      "Bristol Tongue Assesment Tool/ Tongue-Tie and Breastfeed Babies( INGRAM / TABBY)",
+      "Lingual Frenulum Protocol for Infants (MARTINELLI)"
+    ],
+    "richtigeAntworten": [
+      "Frenotomy Decision Tool for Breastfeeding Dyads (DOBRICH)"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "9. Welche Symptome können bei der stillenden Mutter eines Kindes mit oraler Restriktion auftreten?",
+    "antworten": [
+      "Verformte Brustwarzen nach dem Stillen",
+      "Schmerzen beim Stillen",
+      "Überangebot an Milch",
+      "Hormonelle Probleme",
+      "rezidivierende Milchstaus",
+      "Vasospasmus",
+      "Verspannungen"
+    ],
+    "richtigeAntworten": [
+      "Verformte Brustwarzen nach dem Stillen",
+      "Schmerzen beim Stillen",
+      "Überangebot an Milch",
+      "rezidivierende Milchstaus",
+      "Vasospasmus"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "10. Welche Symptome können Kinder mit oraler Restriktion aufweisen?",
+    "antworten": [
+      "zitterndes Kinn beim Stillen",
+      "Saugbläschen",
+      "Hüftdysplasie",
+      "Zungenbelag, soorähnlich",
+      "fliehendes Kinn",
+      "zu hohe Zunahme",
+      "Hemihyperthrophie",
+      "Schlafapnoe"
+    ],
+    "richtigeAntworten": [
+      "zitterndes Kinn beim Stillen",
+      "Saugbläschen",
+      "Zungenbelag, soorähnlich",
+      "fliehendes Kinn",
+      "zu hohe Zunahme",
+      "Schlafapnoe"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "11. Was sind mögliche langfristige Folgen einer nicht getrennten Ankyloglossie?",
+    "antworten": [
+      "Kreuzbiss",
+      "Inkontinenz",
+      "verkleinertes Mittelgesicht",
+      "rezidivierende Otitis media",
+      "Gaumenspalte",
+      "verminderte Hörfähigkeit",
+      "Konzentrationsstörungen bis hin zur falschen ADHS-Diagnose"
+    ],
+    "richtigeAntworten": [
+      "Kreuzbiss",
+      "verkleinertes Mittelgesicht",
+      "rezidivierende Otitis media",
+      "verminderte Hörfähigkeit",
+      "Konzentrationsstörungen bis hin zur falschen ADHS-Diagnose"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "12. Wofür eignet sich das Murphy Manöver?",
+    "antworten": [
+      "Zur Diagnostik eines Zungenbändchens",
+      "Zur Prüfung einer Funktionseinschränkung",
+      "Zur Prüfung, ob ein Widerstand zu spüren ist"
+    ],
+    "richtigeAntworten": [
+      "Zur Prüfung, ob ein Widerstand zu spüren ist"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "13. Was ist eine Schüsselbildung der Zunge?",
+    "antworten": [
+      "eine normale Bewegung der Zunge beim Weinen",
+      "Das Hochziehen der Zungenseiten bei gleichzeitigem herunterziehen der Zungenmitte durch eine orale Restriktion",
+      "Die natürliche Zungenruhelage"
+    ],
+    "richtigeAntworten": [
+      "Das Hochziehen der Zungenseiten bei gleichzeitigem herunterziehen der Zungenmitte durch eine orale Restriktion"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "14. Was ist direkt nach der Frenotomie möglich?",
+    "antworten": [
+      "Sofortige Verbessrung vor allem beim Stillen",
+      "erst Verschlechterung aller Symptome",
+      "Unruhiges Kind in den ersten Stunden / Tagen nach der Trennung",
+      "schnelles bis sofortiges Verschwinden aller Symptome"
+    ],
+    "richtigeAntworten": [
+      "Sofortige Verbessrung vor allem beim Stillen",
+      "erst Verschlechterung aller Symptome",
+      "Unruhiges Kind in den ersten Stunden / Tagen nach der Trennung"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "15. Welche Schmerzmittel und Arzneimittel dürfen vor und innerhalb von 24 nach der Frenotomie nicht eingesetzt werden?",
+    "antworten": [
+      "Paracetamol",
+      "Ibuprofen",
+      "Aspirin",
+      "kolloidales Silber",
+      "Dentinox (Lidocain)"
+    ],
+    "richtigeAntworten": [
+      "Ibuprofen",
+      "Aspirin"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "16. Warum ist die regelmäßige Durchführung des aktiven Wundmanagements (AWM) so wichtig?",
+    "antworten": [
+      "Um eine Wideranhaftung (reattachement) zu vermeiden",
+      "Um ein horizontales Zusammenziehen und Zusammenwachsen der Wunde zu verhindern",
+      "Um ein vertikales Zusammenziehen und Zusammenwachsen der Wunde zu verhindern",
+      "Um Vernarbunngen zu verhindern"
+    ],
+    "richtigeAntworten": [
+      "Um eine Wideranhaftung (reattachement) zu vermeiden",
+      "Um ein horizontales Zusammenziehen und Zusammenwachsen der Wunde zu verhindern",
+      "Um Vernarbunngen zu verhindern"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "17. Wofür sind verschiedene Massagen in der Vor- und Nachsorge einer Frenotomie hilfreich?",
+    "antworten": [
+      "Um Kompensationen zu lösen",
+      "Um das Kind zu entspannen",
+      "Um Muskeln zu stärken",
+      "Um neue Nervenenden zu etablieren"
+    ],
+    "richtigeAntworten": [
+      "Um Kompensationen zu lösen",
+      "Um Muskeln zu stärken",
+      "Um neue Nervenenden zu etablieren"
+    ]
+  },
+  {
+    "thema": "20. Ankyloglossie",
+    "frage": "18. Was wirkt Tummy Time entgegen?",
+    "antworten": [
+      "Mundatmung",
+      "falschem Saugen",
+      "Blockaden und Verspannungen",
+      "motorischen Entwicklungsverzögerungen"
+    ],
+    "richtigeAntworten": [
+      "motorischen Entwicklungsverzögerungen"
+    ]
+  }
+]
