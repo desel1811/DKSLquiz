@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Admin UI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="admin-ui.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz Admin UI</h1>
+        <div id="topicForm">
+            <h2>Neues Thema hinzufügen</h2>
+            <input type="text" id="newTopicTitle" placeholder="Thementitel">
+            <input type="text" id="newTopicSubtitle" placeholder="Themenbeschreibung">
+            <button id="addTopicBtn">Thema hinzufügen</button>
+        </div>
+        <div id="questionForm">
+            <h2>Frage zu Thema hinzufügen / bearbeiten</h2>
+            <label for="topicSelect">Thema wählen:</label>
+            <select id="topicSelect" title="Thema wählen"></select>
+            <input type="number" id="editQuestionIndex" min="1" placeholder="Fragen-Nr. zum Bearbeiten">
+            <button id="loadQuestionBtn">Frage laden</button>
+            <textarea id="questionText" placeholder="Fragetext"></textarea>
+            <input type="text" id="answersInput" placeholder="Antworten (mit Komma trennen)">
+            <input type="text" id="correctAnswersInput" placeholder="Index der richtigen Antwort(en), z.B. 0,2">
+            <textarea id="explanationInput" placeholder="Erklärung (optional)"></textarea>
+            <button id="addQuestionBtn">Frage hinzufügen</button>
+            <button id="editQuestionBtn">Frage speichern</button>
+            <input type="number" id="deleteQuestionIndex" min="1" placeholder="Fragen-Nr. zum Löschen">
+            <button id="deleteQuestionBtn">Frage löschen</button>
+        </div>
+        <div id="exportSection">
+            <h2>Quizdaten exportieren/importieren</h2>
+            <button id="exportJsonBtn">Export als JSON</button>
+            <label for="importJsonInput">JSON-Datei auswählen:</label>
+            <input type="file" id="importJsonInput" accept="application/json" title="Quizdaten als JSON importieren">
+            <button id="importJsonBtn">Import aus JSON</button>
+            <button id="convertJsonBtn">JSON in quiz-data.js umwandeln</button>
+        </div>
+        <div id="dataPreview">
+            <h2>Vorschau</h2>
+            <pre id="previewArea"></pre>
+        </div>
+    </div>
+    <script src="quiz-data.js"></script>
+    <script src="load-quizdata.js"></script>
+    <script src="admin-ui.js"></script>
+</body>
+</html>
