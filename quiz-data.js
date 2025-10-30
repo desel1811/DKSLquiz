@@ -269,17 +269,6 @@ window.quizTopics = {
           3
         ],
         "explanation": "Erklärung warum diese Antwort richtig ist"
-      },
-      {
-        "question": "was tust du wenn du keine lust hast",
-        "answers": [
-          "nix",
-          "alles"
-        ],
-        "correctAnswers": [
-          0
-        ],
-        "explanation": ""
       }
     ]
   },
