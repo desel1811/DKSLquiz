@@ -1,3 +1,43 @@
+// Undo/Redo-Stack
+let quizDataHistory = [];
+let quizDataFuture = [];
+
+function saveQuizDataSnapshot() {
+    quizDataHistory.push(JSON.stringify(window.quizData));
+    // Nach neuer Änderung Redo-Stack leeren
+    quizDataFuture = [];
+}
+
+function undoQuizData() {
+    if (quizDataHistory.length === 0) return;
+    quizDataFuture.push(JSON.stringify(window.quizData));
+    const last = quizDataHistory.pop();
+    window.quizData = JSON.parse(last);
+    updateTopicSelect();
+    showPreview();
+}
+
+function redoQuizData() {
+    if (quizDataFuture.length === 0) return;
+    quizDataHistory.push(JSON.stringify(window.quizData));
+    const next = quizDataFuture.pop();
+    window.quizData = JSON.parse(next);
+    updateTopicSelect();
+    showPreview();
+}
+
+// Buttons einfügen
+document.addEventListener('DOMContentLoaded', function() {
+    const adminBar = document.getElementById('adminBar') || document.body;
+    const undoBtn = document.createElement('button');
+    undoBtn.textContent = 'Undo';
+    undoBtn.onclick = undoQuizData;
+    const redoBtn = document.createElement('button');
+    redoBtn.textContent = 'Redo';
+    redoBtn.onclick = redoQuizData;
+    adminBar.appendChild(undoBtn);
+    adminBar.appendChild(redoBtn);
+});
 // Löschfunktion für Fragen
 document.getElementById('deleteQuestionBtn').onclick = function() {
     const topicKey = document.getElementById('topicSelect').value;
@@ -103,16 +143,53 @@ function showPreview() {
     let preview = '';
     Object.keys(data).forEach(topicKey => {
         const topic = data[topicKey];
-        preview += `Thema: ${topic.title}\n`;
+        preview += `<div class="topic-block"><strong>Thema: ${topic.title}</strong><br>`;
         if (topic.questions && topic.questions.length > 0) {
             topic.questions.forEach((q, idx) => {
-                preview += `${idx + 1}. ${q.question}\nAntworten: ${q.answers.join(', ')}\nRichtig: ${q.correctAnswers.join(', ')}\nErklärung: ${q.explanation || ''}\n\n`;
+                preview += `<div class="question-block">
+                    <label>Frage ${idx + 1}:<br><textarea data-topic="${topicKey}" data-idx="${idx}" class="edit-question">${q.question}</textarea></label><br>
+                    <label>Antworten:<br>`;
+                q.answers.forEach((a, ai) => {
+                    preview += `<textarea data-topic="${topicKey}" data-idx="${idx}" data-answer="${ai}" class="edit-answer">${a}</textarea><br>`;
+                });
+                preview += `</label>
+                    <label>Richtig:<br><input type="text" data-topic="${topicKey}" data-idx="${idx}" class="edit-correct" value="${q.correctAnswers.join(',')}"></label><br>
+                    <label>Erklärung:<br><textarea data-topic="${topicKey}" data-idx="${idx}" class="edit-explanation">${q.explanation || ''}</textarea></label><br>
+                    <button class="save-question-btn" data-topic="${topicKey}" data-idx="${idx}">Speichern</button>
+                    <span class="save-hint" data-topic="${topicKey}" data-idx="${idx}" style="display:none;color:green;margin-left:8px;">Änderung übernommen!</span>
+                </div><hr>`;
             });
         } else {
-            preview += 'Keine Fragen vorhanden.\n\n';
+            preview += 'Keine Fragen vorhanden.<br>';
         }
+        preview += '</div>';
     });
-    document.getElementById('previewArea').textContent = preview;
+    document.getElementById('previewArea').innerHTML = preview;
+
+    // Event für alle Speichern-Buttons pro Frage
+    document.querySelectorAll('.save-question-btn').forEach(btn => {
+        btn.onclick = function() {
+            const t = btn.getAttribute('data-topic');
+            const i = parseInt(btn.getAttribute('data-idx'), 10);
+            // Vor Änderung Snapshot speichern
+            saveQuizDataSnapshot();
+            // Felder der jeweiligen Frage auslesen und übernehmen
+            const qEl = document.querySelector(`.edit-question[data-topic="${t}"][data-idx="${i}"]`);
+            const aEls = document.querySelectorAll(`.edit-answer[data-topic="${t}"][data-idx="${i}"]`);
+            const cEl = document.querySelector(`.edit-correct[data-topic="${t}"][data-idx="${i}"]`);
+            const eEl = document.querySelector(`.edit-explanation[data-topic="${t}"][data-idx="${i}"]`);
+            window.quizData[t].questions[i].question = qEl.value;
+            window.quizData[t].questions[i].answers = Array.from(aEls).map(a => a.value);
+            window.quizData[t].questions[i].correctAnswers = cEl.value.split(',').map(x => parseInt(x.trim(), 10)).filter(x => !isNaN(x));
+            window.quizData[t].questions[i].explanation = eEl.value;
+            // Hinweistext anzeigen
+            const hint = document.querySelector(`.save-hint[data-topic="${t}"][data-idx="${i}"]`);
+            if (hint) {
+                hint.style.display = 'inline';
+                setTimeout(() => { hint.style.display = 'none'; }, 1800);
+            }
+        };
+    });
 }
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -128,9 +205,28 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!topic || !topic.questions || idx < 0 || idx >= topic.questions.length) return alert('Ungültige Fragen-Nr.!');
         const q = topic.questions[idx];
         document.getElementById('questionText').value = q.question;
-        document.getElementById('answersInput').value = q.answers.join(', ');
+        // Antworten: jede Zeile eine Option
+        document.getElementById('answersInput').value = q.answers.join('\n');
         document.getElementById('correctAnswersInput').value = q.correctAnswers.join(',');
         document.getElementById('explanationInput').value = q.explanation || '';
+    };
+
+    // Frage hinzufügen
+    document.getElementById('addQuestionBtn').onclick = function() {
+        const topicKey = document.getElementById('topicSelect').value;
+        const question = document.getElementById('questionText').value.trim();
+        // Antworten: jede Zeile eine Option
+        const answers = document.getElementById('answersInput').value.split(/\r?\n/).map(a => a.trim()).filter(a => a);
+        const correctAnswers = document.getElementById('correctAnswersInput').value.split(',').map(i => parseInt(i.trim(), 10)).filter(i => !isNaN(i));
+        const explanation = document.getElementById('explanationInput').value.trim();
+        if (!topicKey || !question || answers.length === 0 || correctAnswers.length === 0) return alert('Bitte alle Felder ausfüllen!');
+        if (!window.quizData) window.quizData = {};
+        window.quizData[topicKey].questions.push({ question, answers, correctAnswers, explanation });
+        document.getElementById('questionText').value = '';
+        document.getElementById('answersInput').value = '';
+        document.getElementById('correctAnswersInput').value = '';
+        document.getElementById('explanationInput').value = '';
+        showPreview();
     };
 
     // Frage bearbeiten und speichern
@@ -138,7 +234,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const topicKey = document.getElementById('topicSelect').value;
         const idx = parseInt(document.getElementById('editQuestionIndex').value, 10) - 1;
         const question = document.getElementById('questionText').value.trim();
-        const answers = document.getElementById('answersInput').value.split(',').map(a => a.trim()).filter(a => a);
+        // Antworten: jede Zeile eine Option
+        const answers = document.getElementById('answersInput').value.split(/\r?\n/).map(a => a.trim()).filter(a => a);
         const correctAnswers = document.getElementById('correctAnswersInput').value.split(',').map(i => parseInt(i.trim(), 10)).filter(i => !isNaN(i));
         const explanation = document.getElementById('explanationInput').value.trim();
         if (!topicKey || isNaN(idx) || !question || answers.length === 0 || correctAnswers.length === 0) return alert('Bitte alle Felder ausfüllen!');
