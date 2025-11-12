@@ -4385,6 +4385,7 @@ window.quizTopics = {
           "Gar nicht, beides ist eine korrekte Bezeichnung für eine Ankyloglossie",
           "Gar nicht ,beides ist eine korrekte Bezeichnung für ein physiologisches Zungenband",
           "Das Frenulum linguae ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae breve ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt",
+          "Das Frenulum linguae ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae breve ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt",
           "Das Frenulum linguae breve ist eine physiologische, von Mundschleimhaut überzogene Bindegewebsfalte; Das Frenulum linguae ist eine angeborene Entwicklungsstörung bei der eine Fixierung des Zungenbandes am Mundboden vorliegt"
         ],
         "correctAnswers": [
